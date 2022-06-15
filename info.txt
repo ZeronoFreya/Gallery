@@ -1,0 +1,2679 @@
+============================================================
+Status
+============================================================
+wallpaper32.exe Found
+wallpaper64.exe Not running
+ui32.exe Not running
+webwallpaper32.exe Not running
+explorer.exe Found
+
+
+Detected Applications
+============================================================
+
+All Modules wallpaper32.exe
+============================================================
+Offset             Size             Path
+------------------------------------------------------------
+0x0000000000E20000          3010560 E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\wallpaper32.exe
+0x00007FFCBB380000          2134016 C:\Windows\SYSTEM32\ntdll.dll
+0x00007FFCB9A50000           356352 C:\Windows\System32\wow64.dll
+0x00007FFCBAFF0000            32768 C:\Windows\System32\wow64base.dll
+0x00007FFCB9DE0000           565248 C:\Windows\System32\wow64win.dll
+0x00007FFCB9820000            90112 C:\Windows\System32\wow64con.dll
+0x00000000772F0000            36864 C:\Windows\System32\wow64cpu.dll
+0x0000000000E20000          3010560 E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\wallpaper32.exe
+0x0000000077300000          1744896 C:\Windows\SysWOW64\ntdll.dll
+0x0000000076E40000           983040 C:\Windows\SysWOW64\KERNEL32.DLL
+0x0000000075EC0000          2453504 C:\Windows\SysWOW64\KERNELBASE.dll
+0x0000000068FB0000           655360 C:\Windows\SysWOW64\apphelp.dll
+0x000000006ACF0000          2662400 C:\Windows\SysWOW64\AcLayers.DLL
+0x0000000076D70000           794624 C:\Windows\SysWOW64\msvcrt.dll
+0x0000000075090000           139264 C:\Windows\SysWOW64\GDI32.dll
+0x00000000754E0000           106496 C:\Windows\SysWOW64\win32u.dll
+0x0000000075CC0000           913408 C:\Windows\SysWOW64\gdi32full.dll
+0x0000000075180000           503808 C:\Windows\SysWOW64\msvcp_win.dll
+0x0000000076FA0000          1122304 C:\Windows\SysWOW64\ucrtbase.dll
+0x0000000076150000          1753088 C:\Windows\SysWOW64\USER32.dll
+0x0000000075130000           303104 C:\Windows\SysWOW64\SHLWAPI.dll
+0x0000000075420000           765952 C:\Windows\SysWOW64\RPCRT4.dll
+0x0000000076120000           151552 C:\Windows\SysWOW64\IMM32.DLL
+0x0000000076300000          6299648 C:\Windows\SysWOW64\SHELL32.dll
+0x00000000771A0000          1363968 C:\Windows\SysWOW64\ole32.dll
+0x0000000076AE0000          2666496 C:\Windows\SysWOW64\combase.dll
+0x00000000770C0000           507904 C:\Windows\SysWOW64\ADVAPI32.dll
+0x0000000075BB0000           499712 C:\Windows\SysWOW64\sechost.dll
+0x0000000074560000          2527232 C:\Windows\SysWOW64\d3d11.dll
+0x00000000727A0000           200704 C:\Windows\SysWOW64\WINMM.dll
+0x0000000074BE0000            61440 C:\Windows\SysWOW64\WTSAPI32.dll
+0x0000000072770000           159744 C:\Windows\SysWOW64\dwmapi.dll
+0x00000000717F0000            24576 C:\Windows\SysWOW64\MSIMG32.dll
+0x00000000747D0000           835584 C:\Windows\SysWOW64\dxgi.dll
+0x0000000072EC0000           151552 C:\Windows\SysWOW64\SspiCli.dll
+0x0000000075260000           790528 C:\Windows\SysWOW64\shcore.dll
+0x0000000073AF0000           532480 C:\Windows\SysWOW64\uxtheme.dll
+0x0000000074510000            73728 C:\Windows\SysWOW64\kernel.appcore.dll
+0x0000000076F30000           409600 C:\Windows\SysWOW64\bcryptPrimitives.dll
+0x0000000076970000           892928 C:\Windows\SysWOW64\MSCTF.dll
+0x00000000731C0000           315392 C:\Windows\SysWOW64\WINSTA.dll
+0x0000000074B90000           282624 C:\Windows\SysWOW64\powrprof.dll
+0x0000000074550000            57344 C:\Windows\SysWOW64\UMPDC.dll
+0x000000006ACB0000           262144 C:\Windows\SysWOW64\pdh.dll
+0x0000000076A50000           532480 C:\Windows\SysWOW64\clbcatq.dll
+0x0000000072440000           503808 C:\Windows\SysWOW64\MMDevApi.dll
+0x00000000723C0000           147456 C:\Windows\SysWOW64\DEVOBJ.dll
+0x0000000074A40000           241664 C:\Windows\SysWOW64\cfgmgr32.dll
+0x0000000062DD0000          1642496 C:\Windows\SysWOW64\mfplat.dll
+0x0000000062DA0000           180224 C:\Windows\SysWOW64\RTWorkQ.DLL
+0x000000006A8C0000          1712128 C:\Windows\SysWOW64\quartz.dll
+0x00000000756D0000           638976 C:\Windows\SysWOW64\OLEAUT32.dll
+0x0000000073C70000          6955008 C:\Windows\SysWOW64\windows.storage.dll
+0x0000000074350000           102400 C:\Windows\SysWOW64\bcrypt.dll
+0x0000000073B80000           958464 C:\Windows\SysWOW64\wintypes.dll
+0x0000000062F70000           528384 C:\Windows\SysWOW64\MF.dll
+0x000000006A550000          3596288 C:\Windows\SysWOW64\MFCORE.DLL
+0x0000000062A40000          1077248 C:\Windows\SysWOW64\mfperfhelper.dll
+0x000000006A370000          1921024 C:\Windows\SysWOW64\mfmp4srcsnk.dll
+0x000000006AC20000           573440 C:\Windows\SysWOW64\EVR.dll
+0x00000000744F0000            45056 C:\Windows\SysWOW64\CRYPTBASE.DLL
+0x00000000723F0000            36864 C:\Windows\SysWOW64\avrt.dll
+0x00000000635A0000           114688 C:\Windows\SysWOW64\DXVA2.DLL
+0x000000006C6A0000          1511424 C:\Windows\SysWOW64\D3D9.DLL
+0x0000000072DF0000           188416 C:\Windows\SysWOW64\dxcore.dll
+0x000000006C5C0000           892928 C:\Windows\SysWOW64\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvldumd.dll
+0x0000000074BF0000            32768 C:\Windows\SysWOW64\VERSION.dll
+0x0000000074500000            57344 C:\Windows\SysWOW64\msasn1.dll
+0x0000000070A50000           159744 C:\Windows\SysWOW64\cryptnet.dll
+0x0000000075DB0000          1040384 C:\Windows\SysWOW64\CRYPT32.dll
+0x000000006C4B0000          1064960 C:\Windows\SysWOW64\drvstore.dll
+0x000000006AA70000           225280 C:\Windows\SysWOW64\wldp.dll
+0x0000000075670000           331776 C:\Windows\SysWOW64\WINTRUST.DLL
+0x0000000075340000           106496 C:\Windows\SysWOW64\imagehlp.dll
+0x0000000072DB0000           229376 C:\Windows\SysWOW64\directxdatabasehelper.dll
+0x0000000074470000           167936 C:\Windows\SysWOW64\ntmarta.dll
+0x00000000743A0000            77824 C:\Windows\SysWOW64\CRYPTSP.dll
+0x0000000074370000           192512 C:\Windows\SysWOW64\rsaenh.dll
+0x000000005F690000         21057536 C:\Windows\SysWOW64\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvd3dum.dll
+0x000000005D260000         35385344 C:\Windows\SysWOW64\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvwgf2um.dll
+0x0000000069560000           126976 C:\Windows\SysWOW64\gpapi.dll
+0x0000000073620000            98304 C:\Windows\SysWOW64\profapi.dll
+0x000000006A330000           225280 C:\Windows\SysWOW64\colorcnv.dll
+0x0000000068D30000            36864 C:\Windows\SysWOW64\msdmo.dll
+0x00000000624D0000           188416 C:\Windows\SysWOW64\CompPkgSup.DLL
+0x0000000061F60000          5697536 C:\Windows\SysWOW64\Windows.Media.dll
+0x0000000062B50000          2363392 C:\Windows\SysWOW64\msmpeg2vdec.dll
+0x000000006BE90000           778240 C:\Windows\SysWOW64\Windows.ApplicationModel.dll
+0x0000000061DF0000           901120 C:\Windows\SysWOW64\AppXDeploymentClient.dll
+0x0000000073230000          1716224 C:\Windows\SysWOW64\urlmon.dll
+0x0000000072F80000          2293760 C:\Windows\SysWOW64\iertutil.dll
+0x00000000731B0000            45056 C:\Windows\SysWOW64\netutils.dll
+0x0000000073210000           118784 C:\Windows\SysWOW64\srvcli.dll
+0x0000000061C70000          1556480 C:\Windows\SysWOW64\dcomp.dll
+
+
+All Modules explorer.exe
+============================================================
+Offset             Size             Path
+------------------------------------------------------------
+0x00007FF799920000          4997120 C:\Windows\explorer.exe
+0x00007FFCBB380000          2134016 C:\Windows\SYSTEM32\ntdll.dll
+0x00007FFCBA2F0000           774144 C:\Windows\System32\KERNEL32.DLL
+0x00007FFCB8BA0000          3641344 C:\Windows\System32\KERNELBASE.dll
+0x00007FFCB9010000           643072 C:\Windows\System32\msvcp_win.dll
+0x00007FFCB89C0000          1118208 C:\Windows\System32\ucrtbase.dll
+0x00007FFCB92C0000          3637248 C:\Windows\System32\combase.dll
+0x00007FFCBA3B0000          1179648 C:\Windows\System32\RPCRT4.dll
+0x00007FFC8D950000           655360 C:\Windows\SYSTEM32\AEPIC.dll
+0x00007FFCA3810000           819200 C:\Windows\SYSTEM32\TWINAPI.dll
+0x00007FFCBB290000           667648 C:\Windows\System32\msvcrt.dll
+0x00007FFCBAD60000           876544 C:\Windows\System32\OLEAUT32.dll
+0x00007FFCB9960000           958464 C:\Windows\System32\shcore.dll
+0x00007FFCBAF30000           712704 C:\Windows\System32\advapi32.dll
+0x00007FFCB7F80000           167936 C:\Windows\SYSTEM32\USERENV.dll
+0x00007FFCB9220000           647168 C:\Windows\System32\sechost.dll
+0x00007FFCB9CD0000           380928 C:\Windows\System32\shlwapi.dll
+0x00007FFCB7270000           315392 C:\Windows\SYSTEM32\powrprof.dll
+0x00007FFCB9B20000          1753088 C:\Windows\System32\user32.dll
+0x00007FFCB8990000           155648 C:\Windows\System32\win32u.dll
+0x00007FFCB9DB0000           167936 C:\Windows\System32\GDI32.dll
+0x00007FFCB8870000          1122304 C:\Windows\System32\gdi32full.dll
+0x00007FFCBA5B0000          8056832 C:\Windows\System32\SHELL32.dll
+0x00007FFCB69F0000          8814592 C:\Windows\SYSTEM32\windows.storage.dll
+0x00007FFCB6070000           995328 C:\Windows\SYSTEM32\dxgi.dll
+0x00007FFCB7A60000            98304 C:\Windows\SYSTEM32\kernel.appcore.dll
+0x00007FFCB4A50000          1011712 C:\Windows\SYSTEM32\PROPSYS.dll
+0x00007FFCB46F0000            81920 C:\Windows\SYSTEM32\WTSAPI32.dll
+0x00007FFCA4F10000          5218304 C:\Windows\SYSTEM32\WININET.dll
+0x00007FFCB5F00000           704512 C:\Windows\SYSTEM32\UxTheme.dll
+0x00007FFCB6290000           192512 C:\Windows\SYSTEM32\dwmapi.dll
+0x00007FFCB7C80000           270336 C:\Windows\SYSTEM32\SspiCli.dll
+0x00007FFCB0000000          2514944 C:\Windows\SYSTEM32\twinapi.appcore.dll
+0x00007FFCB6880000          1466368 C:\Windows\SYSTEM32\wintypes.dll
+0x00007FFCAC040000           106496 C:\Windows\SYSTEM32\NETAPI32.dll
+0x00007FFCB4EB0000          1294336 C:\Windows\SYSTEM32\DSREG.DLL
+0x00007FFCB8F20000           520192 C:\Windows\System32\bcryptPrimitives.dll
+0x00007FFCB6230000           212992 C:\Windows\SYSTEM32\ntmarta.dll
+0x00007FFCB7360000            77824 C:\Windows\SYSTEM32\UMPDC.dll
+0x00007FFCBB250000           200704 C:\Windows\System32\IMM32.DLL
+0x00007FFC90450000           397312 C:\Windows\System32\dtrampo.dll
+0x00007FFCB61B0000           229376 C:\Windows\SYSTEM32\dxcore.dll
+0x00007FFCBB0B0000          1679360 C:\Windows\System32\ole32.dll
+0x00007FFCBB000000           716800 C:\Windows\System32\clbcatq.dll
+0x00007FFC8D690000           434176 C:\Windows\SYSTEM32\NInput.dll
+0x00007FFC8F8D0000          2555904 C:\Windows\system32\explorerframe.dll
+0x00007FFCB0410000           651264 C:\Windows\System32\ActXPrxy.dll
+0x00007FFCA55B0000          2772992 C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.22000.120_none_9d947278b86cc467\comctl32.dll
+0x00007FFCB9840000          1171456 C:\Windows\System32\MSCTF.dll
+0x00007FFCB86E0000           663552 C:\Windows\SYSTEM32\sxs.dll
+0x00007FFC92DE0000          1830912 C:\Windows\system32\DUI70.dll
+0x00007FFCA5410000           626688 C:\Windows\system32\DUser.dll
+0x00007FFCB07A0000          1761280 C:\Windows\SYSTEM32\WindowsCodecs.dll
+0x00007FFCB87A0000           135168 C:\Windows\SYSTEM32\profapi.dll
+0x00007FFC8F190000           417792 C:\Windows\System32\thumbcache.dll
+0x00007FFCB4B50000           655360 C:\Windows\SYSTEM32\policymanager.dll
+0x00007FFCB47C0000           598016 C:\Windows\SYSTEM32\msvcp110_win.dll
+0x00007FFC8FB40000           380928 C:\Windows\system32\dataexchange.dll
+0x00007FFC9BD60000           712704 C:\Windows\SYSTEM32\TextShaping.dll
+0x00007FFCA59E0000           851968 C:\Windows\System32\Windows.UI.FileExplorer.dll
+0x00007FFCA5540000           430080 C:\Windows\System32\OLEACC.dll
+0x00007FFCB5B20000          1253376 C:\Windows\System32\CoreMessaging.dll
+0x00007FFC9A740000          1232896 C:\Windows\SYSTEM32\textinputframework.dll
+0x00007FFCB17E0000          3592192 C:\Windows\SYSTEM32\CoreUIComponents.dll
+0x00007FFCB80F0000            49152 C:\Windows\SYSTEM32\CRYPTBASE.DLL
+0x00007FFCA7EE0000          1064960 C:\Windows\system32\weasel.dll
+0x00007FFC81500000           102400 C:\Windows\system32\USP10.dll
+0x00007FFC904C0000          8523776 C:\Windows\system32\twinui.pcshell.dll
+0x00007FFCB8540000           311296 C:\Windows\SYSTEM32\cfgmgr32.dll
+0x00007FFCA5CD0000           466944 C:\Windows\system32\wincorlib.DLL
+0x00007FFCB2920000          2830336 C:\Windows\system32\iertutil.dll
+0x00007FFCA44A0000          1052672 C:\Windows\System32\MrmCoreR.dll
+0x00007FFCA32F0000          1605632 C:\Windows\System32\Windows.UI.dll
+0x00007FFCA3D60000           225280 C:\Windows\SYSTEM32\languageoverlayutil.dll
+0x00007FFCA39B0000           184320 C:\Windows\System32\bcp47mrm.dll
+0x00007FFCB1C40000           110592 C:\Windows\SYSTEM32\windows.staterepositorycore.dll
+0x00007FFCAF2C0000           253952 C:\Windows\SYSTEM32\windows.staterepositoryclient.dll
+0x00007FFCA0730000          1409024 C:\Windows\System32\Windows.UI.Immersive.dll
+0x00007FFC82120000           487424 C:\Windows\System32\Windows.FileExplorer.Common.dll
+0x00007FFCA10A0000         18911232 C:\Windows\System32\Windows.UI.Xaml.dll
+0x00007FFCB3F00000          5996544 C:\Windows\System32\d2d1.dll
+0x00007FFC8DB10000          1064960 C:\Windows\ShellComponents\WindowsInternal.ComposableShell.DesktopHosting.dll
+0x00007FFC8BBD0000          3497984 C:\Windows\ShellComponents\WindowsInternal.ComposableShell.Experiences.Switcher.dll
+0x00007FFC8D350000           499712 C:\Windows\ShellExperiences\TileControl.dll
+0x00007FFC8B980000          2387968 C:\Windows\ShellComponents\TaskFlowUI.dll
+0x00007FFC8D2D0000           188416 C:\Windows\ShellComponents\WindowsInternal.ShellUI.dll
+0x00007FFC8B3C0000          6004736 C:\Windows\SystemApps\Microsoft.UI.Xaml.CBS_8wekyb3d8bbwe\Microsoft.UI.Xaml.dll
+0x00007FFC8D210000           577536 C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe\MSVCP140_APP.dll
+0x00007FFC8D2C0000            49152 C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe\VCRUNTIME140_1_APP.dll
+0x00007FFC8D2A0000           110592 C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00_14.0.30704.0_x64__8wekyb3d8bbwe\VCRUNTIME140_APP.dll
+0x00007FFC96450000           155648 C:\Windows\SYSTEM32\edputil.dll
+0x00007FFC963F0000           364544 C:\Windows\SYSTEM32\VAULTCLI.dll
+0x00007FFCAF7E0000          8478720 C:\Windows\System32\OneCoreUAPCommonProxyStub.dll
+0x00007FFC9A930000          1871872 C:\Windows\System32\InputHost.dll
+0x00007FFC91A30000           991232 C:\Windows\System32\UiaManager.dll
+0x00007FFCB13D0000          2002944 C:\Windows\System32\WindowManagementAPI.dll
+0x00007FFCB2BE0000          2027520 C:\Windows\SYSTEM32\urlmon.dll
+0x00007FFCB7580000            49152 C:\Windows\System32\netutils.dll
+0x00007FFCB28F0000           163840 C:\Windows\System32\srvcli.dll
+0x00007FFCB27E0000           278528 C:\Windows\SYSTEM32\directxdatabasehelper.dll
+0x00007FFCB15C0000          2199552 C:\Windows\System32\dcomp.dll
+0x00007FFCB1150000          2621440 C:\Windows\SYSTEM32\d3d11.dll
+0x00007FFCAF6D0000          1077248 C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvldumdx.dll
+0x00007FFCB0640000            40960 C:\Windows\SYSTEM32\VERSION.dll
+0x00007FFCB8130000            73728 C:\Windows\SYSTEM32\msasn1.dll
+0x00007FFCAF280000           200704 C:\Windows\SYSTEM32\cryptnet.dll
+0x00007FFCB90B0000          1449984 C:\Windows\System32\CRYPT32.dll
+0x00007FFCAF130000          1347584 C:\Windows\SYSTEM32\drvstore.dll
+0x00007FFCB8590000           180224 C:\Windows\SYSTEM32\devobj.dll
+0x00007FFCB81A0000           249856 C:\Windows\SYSTEM32\wldp.dll
+0x00007FFCB8FA0000           421888 C:\Windows\System32\WINTRUST.DLL
+0x00007FFCB9800000           126976 C:\Windows\System32\imagehlp.dll
+0x00007FFC9B940000          4292608 C:\Windows\SYSTEM32\Windows.UI.Xaml.Controls.dll
+0x00007FFCA4E70000           413696 C:\Windows\SYSTEM32\Bcp47Langs.dll
+0x00007FFCB80D0000            98304 C:\Windows\SYSTEM32\CRYPTSP.dll
+0x00007FFCB79C0000           217088 C:\Windows\system32\rsaenh.dll
+0x00007FFC8FF40000          3371008 C:\Windows\system32\windowsudk.shellcommon.dll
+0x00007FFCB38D0000           225280 C:\Windows\system32\XmlLite.dll
+0x00007FFCB2DE0000          1261568 C:\Windows\System32\AppXDeploymentClient.dll
+0x00007FFCB8250000           159744 C:\Windows\SYSTEM32\bcrypt.dll
+0x00007FFCA9550000         43577344 C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvwgf2umx_cfg.dll
+0x00007FFCB2430000           208896 C:\Windows\SYSTEM32\WINMM.dll
+0x00007FFC92FA0000          4448256 C:\Windows\SYSTEM32\uiautomationcore.dll
+0x00007FFC80C60000          4882432 C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\ExplorerExtensions.dll
+0x00007FFC9D560000          2486272 C:\Windows\SYSTEM32\dwrite.dll
+0x00007FFCB5E10000           593920 C:\Windows\SYSTEM32\apphelp.dll
+0x00007FFC8ED20000           524288 C:\Windows\system32\ntshrui.dll
+0x00007FFC9D390000          1843200 C:\Windows\System32\Windows.Globalization.dll
+0x00007FFCA6320000            53248 C:\Windows\SYSTEM32\atlthunk.dll
+0x00007FFCAF590000          1290240 C:\Windows\System32\Windows.System.Launcher.dll
+0x00007FFCB2FC0000           630784 C:\Windows\System32\Windows.Graphics.dll
+0x00007FFCA8040000           983040 C:\Windows\System32\Windows.ApplicationModel.dll
+0x00007FFCA7900000           864256 C:\Windows\System32\OneCoreCommonProxyStub.dll
+0x00007FFCB1130000           106496 C:\Windows\SYSTEM32\wkscli.dll
+0x00007FFCA8870000            77824 C:\Windows\SYSTEM32\VirtDisk.dll
+0x00007FFC90440000            45056 C:\Windows\SYSTEM32\FLTLIB.DLL
+0x00007FFCBA4D0000           503808 C:\Windows\System32\coml2.dll
+0x00007FFC98BB0000           126976 C:\Windows\SYSTEM32\MPR.dll
+0x00007FFC85250000           176128 C:\Windows\System32\p9np.dll
+0x00007FFC85240000            49152 C:\Windows\System32\drprov.dll
+0x00007FFC85220000           131072 C:\Windows\System32\ntlanman.dll
+0x00007FFC85200000           122880 C:\Windows\System32\davclnt.dll
+0x00007FFCB7510000           405504 C:\Windows\System32\WINSTA.dll
+0x00007FFC98AF0000            73728 C:\Windows\SYSTEM32\cscapi.dll
+0x00007FFCA8BE0000          1261568 C:\Windows\System32\Windows.StateRepositoryPS.dll
+0x00007FFC983A0000           356352 C:\Windows\System32\dlnashext.dll
+0x00007FFC977A0000           450560 C:\Windows\System32\PlayToDevice.dll
+0x00007FFC92450000           135168 C:\Windows\System32\DevDispItemProvider.dll
+0x00007FFCAE2A0000           638976 C:\Windows\System32\MMDevApi.dll
+0x00007FFC8E000000           745472 C:\Windows\System32\StructuredQuery.dll
+0x00007FFC89BA0000           663552 C:\Windows\system32\wpdshext.dll
+0x00007FFCA42A0000          1781760 C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.22000.675_none_ce846f9a12fab040\gdiplus.dll
+0x00007FFCB2830000           647168 C:\Windows\System32\PortableDeviceApi.dll
+0x00007FFCB9E70000          4636672 C:\Windows\System32\SETUPAPI.dll
+0x00007FFC94070000           225280 C:\Windows\System32\EhStorShell.dll
+0x00007FFCA8EF0000           151552 C:\Windows\System32\EhStorAPI.dll
+0x00007FFC940B0000            36864 D:\Software\Idm\6.39.7\IDMShellExt64.dll
+0x00007FFC902C0000            53248 C:\Windows\SYSTEM32\LINKINFO.dll
+0x00007FFCB61F0000            57344 C:\Windows\SYSTEM32\pfclient.dll
+0x00007FFCB50D0000            98304 C:\Windows\system32\NetworkExplorer.dll
+0x00007FFC99DC0000           643072 C:\Windows\system32\directmanipulation.dll
+0x00007FFC85140000           217088 C:\Windows\System32\Windows.Energy.dll
+0x00007FFC97540000            86016 C:\Windows\System32\threadpoolwinrt.dll
+0x00007FFCB0A20000          7348224 C:\Windows\SYSTEM32\D3D10Warp.dll
+0x00007FFC5D7A0000           143360 D:\Software\CLaunch\App\ClHook.dll
+0x00007FFCBAFE0000            32768 C:\Windows\System32\psapi.DLL
+0x00007FFC8EB50000          1388544 C:\Windows\System32\Windows.UI.Core.TextInput.dll
+
+
+Running Processes
+============================================================
+Filename                                         Path
+------------------------------------------------------------
+[System Process]                                 [System Process]
+ApplicationFrameHost.exe                         C:\Windows\System32\ApplicationFrameHost.exe
+audiodg.exe                                      C:\Windows\System32\audiodg.exe
+AutoHotkey64.exe                                 D:\Software\AutoHotkey\2.0-a138\AutoHotkey64.exe
+AVCore.exe                                       D:\Software\AnyViewer\App\AVCore.exe
+cfosspeed.exe                                    C:\Program Files\cFosSpeed\cfosspeed.exe
+CLaunch.exe                                      D:\Software\CLaunch\App\CLaunch.exe
+clipdiary-portable.exe                           D:\Software\Clipdiary\App\clipdiary-portable.exe
+conhost.exe                                      conhost.exe
+csrss.exe                                        csrss.exe
+ctfmon.exe                                       C:\Windows\System32\ctfmon.exe
+diagnostics64.exe                                E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\bin\diagnostics64.exe
+dllhost.exe                                      C:\Windows\SysWOW64\dllhost.exe
+DTSAPO3Service.exe                               C:\Windows\System32\DTS\PC\APO3x\DTSAPO3Service.exe
+dwm.exe                                          dwm.exe
+Everything.exe                                   D:\Software\Everything\App\Everything.exe
+explorer.exe                                     C:\Windows\explorer.exe
+fontdrvhost.exe                                  fontdrvhost.exe
+hgspeed.exe                                      D:\Software\hgspeed\hgspeed.exe
+HipsDaemon.exe                                   D:\Software\Huorong\Sysdiag\bin\HipsDaemon.exe
+HipsTray.exe                                     D:\Software\Huorong\Sysdiag\bin\HipsTray.exe
+ibtsiva.exe                                      C:\Windows\System32\ibtsiva.exe
+IDMan.exe                                        D:\Software\Idm\6.39.7\IDMan.exe
+jhi_service.exe                                  C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_7aa6ca9dbb25bff8\jhi_service.exe
+LMS.exe                                          C:\Windows\System32\DriverStore\FileRepository\lms.inf_amd64_fddb643595e0b8d0\LMS.exe
+LogiRegistryService.exe                          C:\Program Files\Logitech Gaming Software\Drivers\APOService\LogiRegistryService.exe
+lsass.exe                                        C:\Windows\System32\lsass.exe
+Memory Compression                               Memory Compression
+MoNotificationUx.exe                             C:\Windows\System32\MoNotificationUx.exe
+MoUsoCoreWorker.exe                              MoUsoCoreWorker.exe
+msedge.exe                                       C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+msedgewebview2.exe                               C:\Program Files (x86)\Microsoft\EdgeWebView\Application\101.0.1210.53\msedgewebview2.exe
+Nexus.exe                                        D:\Software\Winstep\App\Nexus.exe
+NLSvc.exe                                        D:\Software\NetLimiter\App\NLSvc.exe
+NVDisplay.Container.exe                          C:\Program Files\NVIDIA Corporation\Display.NvContainer\NVDisplay.Container.exe
+Pen_Tablet.exe                                   C:\Program Files\Tablet\Pen\Pen_Tablet.exe
+Pen_TabletUser.exe                               C:\Program Files\Tablet\Pen\Pen_TabletUser.exe
+Pen_TouchUser.exe                                C:\Program Files\Tablet\Pen\Pen_TouchUser.exe
+PowerToys.exe                                    D:\Software\PowerToys\App\PowerToys.exe
+PowerToys.FancyZones.exe                         D:\Software\PowerToys\App\modules\FancyZones\PowerToys.FancyZones.exe
+RCClient.exe                                     D:\Software\AnyViewer\App\RCClient.exe
+RCService.exe                                    D:\Software\AnyViewer\App\RCService.exe
+Registry                                         Registry
+RstMwService.exe                                 C:\Windows\System32\DriverStore\FileRepository\iastorac.inf_amd64_6ca78a08b838e305\RstMwService.exe
+RtkAudUService64.exe                             C:\Windows\System32\RtkAudUService64.exe
+RuntimeBroker.exe                                C:\Windows\System32\RuntimeBroker.exe
+SbieSvc.exe                                      D:\Software\Sandboxie-Plus\App\SbieSvc.exe
+ScreanCap.exe                                    D:\Software\AnyViewer\App\ScreanCap.exe
+SearchHost.exe                                   C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+SecurityHealthService.exe                        C:\Windows\System32\SecurityHealthService.exe
+SecurityHealthSystray.exe                        C:\Windows\System32\SecurityHealthSystray.exe
+services.exe                                     C:\Windows\System32\services.exe
+SgrmBroker.exe                                   C:\Windows\System32\SgrmBroker.exe
+ShellExperienceHost.exe                          C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+sihost.exe                                       C:\Windows\System32\sihost.exe
+smss.exe                                         C:\Windows\System32\smss.exe
+Snipaste.exe                                     D:\Software\Snipaste\App\Snipaste.exe
+spd.exe                                          C:\Program Files\cFosSpeed\spd.exe
+StartMenuExperienceHost.exe                      C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+steam.exe                                        D:\Software\Steam\App\steam.exe
+steamwebhelper.exe                               D:\Software\Steam\App\bin\cef\cef.win7x64\steamwebhelper.exe
+svchost.exe                                      C:\Windows\System32\svchost.exe
+SynTPEnh.exe                                     C:\Windows\System32\SynTPEnh.exe
+SynTPEnhService.exe                              C:\Windows\System32\SynTPEnhService.exe
+System                                           System
+SystemSettings.exe                               C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+TabTip.exe                                       C:\Program Files\Common Files\microsoft shared\ink\TabTip.exe
+taskhostw.exe                                    C:\Windows\System32\taskhostw.exe
+tcmatch64.exe                                    D:\Software\TotalCommanderPortable\totalcmd_10\tcmatch64.exe
+TeraCopyService.exe                              D:\Software\TeraCopy\App\TeraCopyService.exe
+TextInputHost.exe                                C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+TOTALCMD64.EXE                                   D:\Software\TotalCommanderPortable\totalcmd_10\TOTALCMD64.EXE
+usysdiag.exe                                     D:\Software\Huorong\Sysdiag\bin\usysdiag.exe
+v2rayN.exe                                       D:\Software\v2ray\App\v2rayN.exe
+WacomHost.exe                                    C:\Program Files\Tablet\Pen\WacomHost.exe
+wallpaper32.exe                                  E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\wallpaper32.exe
+wallpaperservice32_c.exe                         E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\bin\wallpaperservice32_c.exe
+WeaselServer.exe                                 D:\Software\Rime\App\weasel-0.14.3\WeaselServer.exe
+wininit.exe                                      C:\Windows\System32\wininit.exe
+winlogon.exe                                     C:\Windows\System32\winlogon.exe
+wlanext.exe                                      wlanext.exe
+WmiPrvSE.exe                                     WmiPrvSE.exe
+wsctrlsvc.exe                                    D:\Software\Huorong\Sysdiag\bin\wsctrlsvc.exe
+WsxService.exe                                   D:\Software\Winstep\App\WsxService.exe
+WTabletServiceCon.exe                            C:\Program Files\Tablet\Pen\WTabletServiceCon.exe
+wv2ray.exe                                       D:\Software\v2ray\App\wv2ray.exe
+XtuService.exe                                   C:\Windows\SysWOW64\XtuService.exe
+
+
+Config info
+============================================================
+User defaultuser100000
+	General
+		{
+			"adjustdwmcolor" : false,
+			"adjustdwmcolormode" : "disabled",
+			"apprules" : null,
+			"audioinputdevice" : "default",
+			"audioinputthreshold" : 0,
+			"audioinputvolume" : 50,
+			"autostart" : false,
+			"autostartscheduler" : false,
+			"autostartx64" : false,
+			"cefcommandline" : "",
+			"fps" : 15,
+			"hasshownwelcomedialog" : true,
+			"highprecisiontimer" : true,
+			"iconopacity" : 100,
+			"language" : "default",
+			"loglevel" : "error",
+			"monitordetection" : "devicepath",
+			"msaa" : "none",
+			"overridelockscreen" : false,
+			"overridewallpaper" : false,
+			"pausevram" : false,
+			"playbackaudio" : "run",
+			"playbackfocus" : "run",
+			"playbackfullscreen" : "pause",
+			"playbackmaximized" : "pause",
+			"playbackonbattery" : "run",
+			"playbacksleep" : "stop",
+			"plugins" : null,
+			"postprocessing" : "enabled",
+			"preset" : "medium",
+			"processpriority" : "normal",
+			"reflection" : true,
+			"reloadaudio" : true,
+			"resolution" : "full",
+			"safemode" : true,
+			"slideshowkiller" : false,
+			"steamlanguage" : "english",
+			"uicmd" : null,
+			"uieffects" : null,
+			"uihardwareacceleration" : true,
+			"uiquality" : "medium",
+			"uiskin" : "dark",
+			"uiskinseasonal" : true,
+			"unpauseaero" : true,
+			"v" : "2.1.32",
+			"vd" : "2022-06-10 01:43:02",
+			"videoaudiooutput" : true,
+			"videoaudiooutputfade" : true,
+			"videohardwareacceleration" : true,
+			"videoloopmode" : "default",
+			"videoreadmode" : "fromdisk",
+			"webmframework" : null,
+			"windows7mode" : "compatibility",
+			"windowupdaterate" : 1000
+		}
+User defaultuser100001
+	General
+		{
+			"adjustdwmcolor" : false,
+			"adjustdwmcolormode" : "disabled",
+			"apprules" : null,
+			"audioinputdevice" : "default",
+			"audioinputthreshold" : 0,
+			"audioinputvolume" : 50,
+			"autostart" : false,
+			"autostartscheduler" : false,
+			"autostartx64" : false,
+			"cefcommandline" : "",
+			"fps" : 15,
+			"hasshownwelcomedialog" : true,
+			"highprecisiontimer" : true,
+			"iconopacity" : 100,
+			"language" : "default",
+			"loglevel" : "error",
+			"monitordetection" : "devicepath",
+			"msaa" : "none",
+			"overridelockscreen" : false,
+			"overridewallpaper" : false,
+			"pausevram" : false,
+			"playbackaudio" : "run",
+			"playbackfocus" : "run",
+			"playbackfullscreen" : "pause",
+			"playbackmaximized" : "pause",
+			"playbackonbattery" : "run",
+			"playbacksleep" : "stop",
+			"plugins" : null,
+			"postprocessing" : "enabled",
+			"preset" : "medium",
+			"processpriority" : "normal",
+			"reflection" : true,
+			"reloadaudio" : true,
+			"resolution" : "full",
+			"safemode" : true,
+			"slideshowkiller" : false,
+			"steamlanguage" : "english",
+			"uicmd" : null,
+			"uieffects" : null,
+			"uihardwareacceleration" : true,
+			"uiquality" : "medium",
+			"uiskin" : "dark",
+			"uiskinseasonal" : true,
+			"unpauseaero" : true,
+			"v" : "2.1.32",
+			"vd" : "2022-06-10 01:43:02",
+			"videoaudiooutput" : true,
+			"videoaudiooutputfade" : true,
+			"videohardwareacceleration" : true,
+			"videoloopmode" : "default",
+			"videoreadmode" : "fromdisk",
+			"webmframework" : null,
+			"windows7mode" : "compatibility",
+			"windowupdaterate" : 1000
+		}
+User zeron
+	General
+		{
+			"adjustdwmcolor" : false,
+			"adjustdwmcolormode" : "disabled",
+			"anticrash" : null,
+			"apprules" : null,
+			"audioinputdevice" : "default",
+			"audioinputthreshold" : 0,
+			"audioinputvolume" : 50,
+			"autostart" : true,
+			"autostartscheduler" : true,
+			"autostartx64" : false,
+			"bloom" : null,
+			"cefcommandline" : "",
+			"fps" : 10,
+			"hasshownhighprioritywarning" : true,
+			"hasshownwelcomedialog" : true,
+			"highprecisiontimer" : false,
+			"iconopacity" : 100,
+			"language" : "zh-chs",
+			"loglevel" : "none",
+			"monitordetection" : "devicepath",
+			"msaa" : "none",
+			"overrideimagewarning" : true,
+			"overridelockscreen" : true,
+			"overridewallpaper" : false,
+			"pausevram" : true,
+			"playbackaudio" : "run",
+			"playbackfocus" : "run",
+			"playbackfullscreen" : "pause",
+			"playbackmaximized" : "pause",
+			"playbackonbattery" : "run",
+			"playbacksleep" : "pause",
+			"plugindelay" : 0,
+			"plugins" : 
+			{
+				"ledextensions" : 
+				{
+					"enabled" : false
+				}
+			},
+			"postprocessing" : "disabled",
+			"preset" : "low",
+			"processpriority" : "normal",
+			"reflection" : false,
+			"reloadaudio" : true,
+			"resolution" : "half",
+			"safemode" : false,
+			"slideshowkiller" : false,
+			"steamlanguage" : "schinese",
+			"uicmd" : "",
+			"uieffects" : null,
+			"uihardwareacceleration" : true,
+			"uiquality" : "medium",
+			"uiskin" : "dark",
+			"uiskinseasonal" : true,
+			"unpauseaero" : true,
+			"v" : "2.1.32",
+			"vd" : "2022-06-10 01:43:02",
+			"vdesktopenabled" : false,
+			"videoaudiooutput" : true,
+			"videoaudiooutputfade" : true,
+			"videoframework" : "dshow.lav.vmr9",
+			"videohardwareacceleration" : true,
+			"videoloopmode" : "default",
+			"videoreadmode" : "frommemory",
+			"webmframework" : null,
+			"windows7mode" : "compatibility",
+			"windowupdaterate" : 1000
+		}
+	Wallpapers
+		{
+			"layout" : 0,
+			"selectedwallpapers" : 
+			{
+				"//?/DISPLAY#LGD05C0#5&340848cb&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"file" : "E:/Enjoy/Game/SteamLibrary/steamapps/workshop/content/431960/2744538407/MonaWallpaperFHD.mp4"
+				},
+				"//?/DISPLAY#SGT0156#5&340848cb&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"file" : "E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/projects/myprojects/é¹¿å³¶/scene.json"
+				}
+			}
+		}
+	Wallpapers for screensaver
+		{
+			"layout" : 0,
+			"sameaswallpaper" : true
+		}
+User zeronofreya
+	General
+		{
+			"adjustdwmcolor" : false,
+			"adjustdwmcolormode" : "disabled",
+			"anticrash" : null,
+			"apprules" : [],
+			"audioinputdevice" : "default",
+			"audioinputthreshold" : 0,
+			"audioinputvolume" : 50,
+			"autostart" : true,
+			"autostartscheduler" : false,
+			"autostartx64" : false,
+			"bloom" : null,
+			"cefcommandline" : "",
+			"fps" : 15,
+			"hasshownhighprioritywarning" : true,
+			"hasshownwelcomedialog" : true,
+			"iconopacity" : 100,
+			"language" : "default",
+			"loglevel" : "error",
+			"monitordetection" : "devicepath",
+			"msaa" : "none",
+			"overridelockscreen" : false,
+			"overridewallpaper" : false,
+			"pausevram" : false,
+			"playbackaudio" : "mute",
+			"playbackfocus" : "run",
+			"playbackfullscreen" : "pause",
+			"playbackmaximized" : "pause",
+			"playbackonbattery" : "stop",
+			"playbacksleep" : "stop",
+			"plugindelay" : 0,
+			"plugins" : 
+			{
+				"ledextensions" : 
+				{
+					"enabled" : true
+				}
+			},
+			"postprocessing" : "enabled",
+			"preset" : "medium",
+			"processpriority" : "normal",
+			"reflection" : true,
+			"reloadaudio" : true,
+			"resolution" : "full",
+			"safemode" : false,
+			"slideshowkiller" : false,
+			"steamlanguage" : "schinese",
+			"uicmd" : "",
+			"uieffects" : null,
+			"uihardwareacceleration" : true,
+			"uiquality" : "medium",
+			"uiskin" : "dark",
+			"uiskinseasonal" : true,
+			"unpauseaero" : true,
+			"usermonitors" : 
+			{
+				"//?/DISPLAY#LGD05C0#5&5dd708c&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"videoaudiooutput" : true
+				}
+			},
+			"v" : "2.1.32",
+			"vd" : "2022-06-10 01:43:02",
+			"videoaudiooutput" : true,
+			"videoaudiooutputfade" : true,
+			"videohardwareacceleration" : true,
+			"videoloopmode" : "default",
+			"videoreadmode" : "fromdisk",
+			"webmframework" : null,
+			"windows7mode" : "compatibility",
+			"windowupdaterate" : 1000
+		}
+	Wallpapers
+		{
+			"layout" : null,
+			"selectedwallpapers" : 
+			{
+				"//?/DISPLAY#LGD05C0#5&340848cb&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"file" : "E:/Enjoy/Game/SteamLibrary/steamapps/workshop/content/431960/883945381/index.html"
+				},
+				"//?/DISPLAY#LGD05C0#5&5dd708c&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"file" : "F:/Enjoy/Game/SteamLibrary/steamapps/workshop/content/431960/883945381/index.html"
+				},
+				"//?/DISPLAY#SGT0156#5&340848cb&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" : 
+				{
+					"file" : "E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/projects/myprojects/é¹¿å³¶/scene.json"
+				}
+			}
+		}
+
+
+Windows settings
+============================================================
+client animation enabled: 1 (check status: 1)
+high contrast enabled: 0, theme: unknown (check status: 1)
+QPC frequency: 10000000 (check status: 1)
+scrnsave.exe registry: 
+ScreenSaveTimeOut registry: 
+Active user: zeron
+
+
+Steam info
+============================================================
+Version: 7.30.20.28
+.exe days old: 8
+Users: 76561198315747756, 
+
+
+Dependency error analysis
+============================================================
+deps errors x64:
+deps errors x86:
+Error module: ColorAdapterClient.dll, loaded: 0
+
+
+Firewall status
+============================================================
+Has firewall access: 0
+Firewall read result: 1, 
+Granted access rules:
+Wallpaper Engine UI (application): E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\bin\ui32.exe - in - UDP / (none) mask: 7
+Wallpaper Engine UI (application): E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\bin\ui32.exe - in - TCP / (none) mask: 7
+
+
+Log contents
+============================================================
+../log.txt:
+2021-05-13T06:58:52Z, 5848: icon create failed.
+2021-05-13T06:58:53Z, 5848: icon create failed.
+2021-05-13T06:58:54Z, 5848: icon create failed.
+2021-05-13T06:58:55Z, 5848: icon create failed.
+2021-05-13T06:58:56Z, 5848: icon create failed.
+2021-05-13T06:58:57Z, 5848: icon create failed.
+2021-05-13T06:58:58Z, 5848: icon create failed.
+2021-05-13T06:58:59Z, 5848: icon create failed.
+2021-05-13T06:59:00Z, 5848: icon create failed.
+2021-06-09T16:14:41Z, 2920: icon create failed.
+2021-06-09T16:14:42Z, 2920: icon create failed.
+2021-06-09T16:14:43Z, 2920: icon create failed.
+2021-06-09T16:14:44Z, 2920: icon create failed.
+2021-06-09T16:14:45Z, 2920: icon create failed.
+2021-06-09T16:14:46Z, 2920: icon create failed.
+2021-06-09T16:14:47Z, 2920: icon create failed.
+2021-06-09T16:14:48Z, 2920: icon create failed.
+2021-06-15T15:55:37Z, 6904: icon create failed.
+2021-06-15T15:55:45Z, 6904: icon create failed.
+2021-06-15T15:55:46Z, 6904: icon create failed.
+2021-06-15T15:55:47Z, 6904: icon create failed.
+2021-06-15T15:55:48Z, 6904: icon create failed.
+2021-06-15T15:55:49Z, 6904: icon create failed.
+2021-06-15T15:55:50Z, 6904: icon create failed.
+2021-06-15T15:55:51Z, 6904: icon create failed.
+2021-06-15T15:55:52Z, 6904: icon create failed.
+2021-06-15T15:55:53Z, 6904: icon create failed.
+2021-06-15T15:55:54Z, 6904: icon create failed.
+2021-06-15T15:55:55Z, 6904: icon create failed.
+2021-06-15T15:55:56Z, 6904: icon create failed.
+2021-06-15T15:55:57Z, 6904: icon create failed.
+2021-06-15T15:55:58Z, 6904: icon create failed.
+2021-06-15T15:55:59Z, 6904: icon create failed.
+2021-06-15T15:56:00Z, 6904: icon create failed.
+2021-06-15T15:56:01Z, 6904: icon create failed.
+2021-06-16T02:49:51Z, 7128: icon create failed.
+2021-06-25T06:27:52Z, 9748: icon create failed.
+2021-06-25T06:28:25Z, 10252: IPC message timeout: 101
+2021-06-25T06:28:35Z, 10252: IPC message timeout: 4
+2021-06-25T06:28:45Z, 10252: IPC message timeout: 104
+2021-07-07T03:48:43Z, 9236: icon create failed.
+2021-07-15T13:58:54Z, 10688: Forcing update because of missing file: E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\bin/chrome_100_percent.pak
+2021-07-15T13:59:16Z, 8568: Plugin manager: cannot load plugin container E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions32.dll.
+2021-07-15T13:59:16Z, 1788: Failed opening file: scene.json
+2021-07-15T13:59:16Z, 6492: Failed opening file: F:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/projects/myprojects/鹿島/scene.json
+2021-07-15T13:59:16Z, 6492: Failed parsing F:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/projects/myprojects/鹿島/scene.json with error: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+.
+2021-07-16T03:07:54Z, 9888: Plugin manager: cannot load plugin container E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions32.dll.
+2021-07-17T02:27:00Z, 6852: Plugin manager: cannot load plugin container E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions32.dll.
+2021-07-18T05:37:39Z, 8424: Plugin manager: cannot load plugin container E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions32.dll.
+2021-07-19T02:38:22Z, 9292: Plugin manager: cannot load plugin container E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions32.dll.
+2021-07-20T07:03:55Z, 6584: Plugin manager: cannot load plugin container E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions32.dll.
+2021-07-21T05:54:14Z, 4732: Plugin manager: cannot load plugin container E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions32.dll.
+2021-07-22T05:39:50Z, 7628: Plugin manager: cannot load plugin container E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions32.dll.
+2021-07-23T03:11:23Z, 852: Plugin manager: cannot load plugin container E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions32.dll.
+2021-07-24T02:39:35Z, 8428: Plugin manager: cannot load plugin container E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions32.dll.
+2021-07-25T02:47:47Z, 8616: Plugin manager: cannot load plugin container E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions32.dll.
+2021-07-26T02:14:15Z, 4652: Plugin manager: cannot load plugin container E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions32.dll.
+2021-07-27T02:17:05Z, 1416: Plugin manager: cannot load plugin container E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions32.dll.
+2021-07-28T02:25:59Z, 8492: Plugin manager: cannot load plugin container E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions32.dll.
+2021-07-29T02:37:46Z, 8456: Plugin manager: cannot load plugin container E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions32.dll.
+2021-07-30T02:14:33Z, 10032: Plugin manager: cannot load plugin container E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions32.dll.
+2021-07-31T01:56:12Z, 10076: Plugin manager: cannot load plugin container E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions32.dll.
+2021-08-01T01:46:55Z, 10284: Plugin manager: cannot load plugin container E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions32.dll.
+2021-08-17T01:18:25Z, 11952: DXGI device lost in render loop.
+2021-11-27T02:44:11Z, 11580: Forcing update because of missing file: E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\bin/edgewallpaper32.exe
+2022-01-04T06:35:10Z, 10596: Plugin manager: cannot load plugin container E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions64.dll.
+2022-01-04T06:55:23Z, 8684: Plugin manager: cannot load plugin container E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/plugins/led/ledextensions64.dll.
+2022-02-04T13:57:13Z, 8492: DXGI Init failed, retries left: 19
+2022-02-04T13:57:14Z, 8492: DXGI Init failed, retries left: 18
+2022-02-04T13:57:15Z, 8492: DXGI Init failed, retries left: 17
+2022-02-04T13:57:16Z, 8492: DXGI Init failed, retries left: 16
+2022-02-04T13:57:17Z, 8492: DXGI Init failed, retries left: 15
+2022-02-04T13:57:18Z, 8492: DXGI Init failed, retries left: 14
+2022-02-04T13:57:19Z, 8492: DXGI Init failed, retries left: 13
+2022-02-04T13:57:20Z, 8492: DXGI Init failed, retries left: 12
+2022-02-04T13:57:21Z, 8492: DXGI Init failed, retries left: 11
+2022-02-04T13:57:22Z, 8492: DXGI Init failed, retries left: 10
+2022-02-04T13:57:23Z, 8492: DXGI Init failed, retries left: 9
+2022-02-04T13:57:24Z, 8492: DXGI Init failed, retries left: 8
+2022-02-04T13:57:25Z, 8492: DXGI Init failed, retries left: 7
+2022-02-04T13:57:26Z, 8492: DXGI Init failed, retries left: 6
+2022-02-04T13:57:27Z, 8492: DXGI Init failed, retries left: 5
+2022-02-04T13:57:28Z, 8492: DXGI Init failed, retries left: 4
+2022-02-04T13:57:29Z, 8492: DXGI Init failed, retries left: 3
+2022-02-04T13:57:30Z, 8492: DXGI Init failed, retries left: 2
+2022-02-04T13:57:31Z, 8492: DXGI Init failed, retries left: 1
+2022-02-04T13:57:32Z, 8492: DXGI Init failed, retries left: 0
+2022-02-04T13:57:33Z, 8492: DirectX 10 not supported by your graphics card or your graphics driver is broken. Windows reports: 指定的设备接口或功能级别在此系统上不受支持。  (hr: 887a0004, code: 0, iswnd: 1, hdr: 0).
+2022-04-01T11:01:59Z, 9056: DXGI Init failed, retries left: 19
+2022-04-01T11:02:00Z, 9056: DXGI Init failed, retries left: 18
+2022-04-01T11:02:01Z, 9056: DXGI Init failed, retries left: 17
+2022-04-01T11:02:02Z, 9056: DXGI Init failed, retries left: 16
+2022-04-01T11:02:03Z, 9056: DXGI Init failed, retries left: 15
+2022-04-01T11:02:04Z, 9056: DXGI Init failed, retries left: 14
+2022-04-01T11:02:05Z, 9056: DXGI Init failed, retries left: 13
+2022-04-01T11:02:06Z, 9056: DXGI Init failed, retries left: 12
+2022-04-01T11:02:07Z, 9056: DXGI Init failed, retries left: 11
+2022-04-01T11:02:08Z, 9056: DXGI Init failed, retries left: 10
+2022-04-01T11:02:09Z, 9056: DXGI Init failed, retries left: 9
+2022-04-01T11:02:10Z, 9056: DXGI Init failed, retries left: 8
+2022-04-01T11:02:11Z, 9056: DXGI Init failed, retries left: 7
+2022-04-01T11:02:12Z, 9056: DXGI Init failed, retries left: 6
+2022-04-01T11:02:13Z, 9056: DXGI Init failed, retries left: 5
+2022-04-01T11:02:14Z, 9056: DXGI Init failed, retries left: 4
+2022-04-01T11:02:15Z, 9056: DXGI Init failed, retries left: 3
+2022-04-01T11:02:16Z, 9056: DXGI Init failed, retries left: 2
+2022-04-01T11:02:17Z, 9056: DXGI Init failed, retries left: 1
+2022-04-01T11:02:18Z, 9056: DXGI Init failed, retries left: 0
+2022-04-01T11:02:19Z, 9056: DirectX 10 not supported by your graphics card or your graphics driver is broken. Windows reports: 指定的设备接口或功能级别在此系统上不受支持。  (hr: 887a0004, code: 0, iswnd: 1, hdr: 0).
+2022-06-04T01:44:56Z, 7544: icon create failed: -2147467259.
+2022-06-04T02:02:42Z, 10332: icon create failed: -2147467259.
+2022-06-15T04:48:23Z, 3508: Forcing update because of missing file: E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\bin/vk_swiftshader.dll
+2022-06-15T04:48:42Z, 10244: WinRTUtil setlockscreen path: C:\Users\zeron\AppData\Roaming\Microsoft\Windows\Themes\WallpaperEngineLockOverride_randomLJBRPP.jpg.
+2022-06-15T04:48:42Z, 10244: WinRTUtil LockScreen::SetImageFileAsync called.
+2022-06-15T04:49:36Z, 4044: WinRTUtil setlockscreen path: C:\Users\zeron\AppData\Roaming\Microsoft\Windows\Themes\WallpaperEngineLockOverride_randomDWFNOL.jpg.
+2022-06-15T04:49:36Z, 4044: WinRTUtil LockScreen::SetImageFileAsync called.
+2022-06-15T04:49:54Z, 2680: WinRTUtil setlockscreen path: C:\Users\zeron\AppData\Roaming\Microsoft\Windows\Themes\WallpaperEngineLockOverride_randomFMBKCN.jpg.
+2022-06-15T04:49:54Z, 2680: WinRTUtil LockScreen::SetImageFileAsync called.
+2022-06-15T05:09:17Z, 10588: WinRTUtil setlockscreen path: C:\Users\zeron\AppData\Roaming\Microsoft\Windows\Themes\WallpaperEngineLockOverride_randomEAISTH.jpg.
+2022-06-15T05:09:18Z, 10588: WinRTUtil LockScreen::SetImageFileAsync called.
+2022-06-15T05:26:52Z, 11656: WinRTUtil setlockscreen path: C:\Users\zeron\AppData\Roaming\Microsoft\Windows\Themes\WallpaperEngineLockOverride_randomJLALPU.jpg.
+2022-06-15T05:26:52Z, 11656: WinRTUtil LockScreen::SetImageFileAsync called.
+2022-06-15T05:28:15Z, 14400: WinRTUtil setlockscreen path: C:\Users\zeron\AppData\Roaming\Microsoft\Windows\Themes\WallpaperEngineLockOverride_randomDOSLEI.jpg.
+2022-06-15T05:28:16Z, 14400: WinRTUtil LockScreen::SetImageFileAsync called.
+2022-06-15T08:26:26Z, 1400: WinRTUtil setlockscreen path: C:\Users\zeron\AppData\Roaming\Microsoft\Windows\Themes\WallpaperEngineLockOverride_randomNPUNCH.jpg.
+2022-06-15T08:26:27Z, 1400: WinRTUtil LockScreen::SetImageFileAsync called.
+2022-06-15T12:59:25Z, 2788: WinRTUtil setlockscreen path: C:\Users\zeron\AppData\Roaming\Microsoft\Windows\Themes\WallpaperEngineLockOverride_randomFKURSC.jpg.
+2022-06-15T12:59:26Z, 2788: WinRTUtil LockScreen::SetImageFileAsync called.
+2022-06-15T13:08:53Z, 1424: WinRTUtil setlockscreen path: C:\Users\zeron\AppData\Roaming\Microsoft\Windows\Themes\WallpaperEngineLockOverride_randomHXFSTP.jpg.
+2022-06-15T13:08:53Z, 1424: WinRTUtil LockScreen::SetImageFileAsync called.
+2022-06-15T17:02:17Z, 11364: WinRTUtil setlockscreen path: C:\Users\zeron\AppData\Roaming\Microsoft\Windows\Themes\WallpaperEngineLockOverride_randomELBLSJ.jpg.
+2022-06-15T17:02:18Z, 11364: WinRTUtil LockScreen::SetImageFileAsync called.
+
+------------------------------------------------------------
+uilog.txt:
+nt&lang=en-us&win11=1#/
+2022-06-15T13:07:00Z, 1132: CefEngine::OnContextCreated
+2022-06-15T13:07:00Z, 1132: CefEngine::OnContextCreated
+2022-06-15T13:07:00Z, 1568: Steam init: 1
+2022-06-15T13:07:06Z, 1568: Writing 18 wallpapers to cache.
+2022-06-15T13:07:08Z, 11856: Done cleanup
+2022-06-15T13:08:48Z, 7280: UI CEF shutdown
+2022-06-15T16:58:50Z, 12664: QDC paths 2, modes 4, query 2, method 0
+2022-06-15T16:58:50Z, 12664: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#LGD05C0#5&340848cb&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2022-06-15T16:58:50Z, 12664: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2022-06-15T16:58:50Z, 12664: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#SGT0156#5&340848cb&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2022-06-15T16:58:50Z, 12664: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 0 1080 width 1920 height 1080 rotation 1
+2022-06-15T16:58:50Z, 12664: Open URL: file:///E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\ui\dist\index.html?skinStyle=styles/skindark.css&skinColor=%23202020&skinKey=dark&provider=steamint&lang=zh-chs&uiperf=1&win11=1#/settings
+2022-06-15T16:58:50Z, 12664: CefEngine::OnContextInitialized
+2022-06-15T16:58:50Z, 13020: QDC paths 2, modes 4, query 2, method 4
+2022-06-15T16:58:50Z, 13020: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#LGD05C0#5&340848cb&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2022-06-15T16:58:50Z, 13020: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2022-06-15T16:58:50Z, 13020: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#SGT0156#5&340848cb&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2022-06-15T16:58:50Z, 13020: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 0 1080 width 1920 height 1080 rotation 1
+2022-06-15T16:58:50Z, 13020: Open URL: file:///E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us&win11=1#/
+2022-06-15T16:58:50Z, 8872: QDC paths 2, modes 4, query 2, method 4
+2022-06-15T16:58:50Z, 8872: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#LGD05C0#5&340848cb&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2022-06-15T16:58:50Z, 8872: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2022-06-15T16:58:50Z, 8872: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#SGT0156#5&340848cb&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2022-06-15T16:58:50Z, 8872: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 0 1080 width 1920 height 1080 rotation 1
+2022-06-15T16:58:50Z, 8872: Open URL: file:///E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us&win11=1#/
+2022-06-15T16:58:50Z, 1736: QDC paths 2, modes 4, query 2, method 4
+2022-06-15T16:58:50Z, 1736: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#LGD05C0#5&340848cb&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2022-06-15T16:58:50Z, 1736: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2022-06-15T16:58:50Z, 1736: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#SGT0156#5&340848cb&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2022-06-15T16:58:50Z, 1736: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 0 1080 width 1920 height 1080 rotation 1
+2022-06-15T16:58:50Z, 1736: Open URL: file:///E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us&win11=1#/
+2022-06-15T16:58:50Z, 11944: QDC paths 2, modes 4, query 2, method 4
+2022-06-15T16:58:50Z, 11944: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#LGD05C0#5&340848cb&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2022-06-15T16:58:50Z, 11944: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2022-06-15T16:58:50Z, 11944: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#SGT0156#5&340848cb&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2022-06-15T16:58:50Z, 11944: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 0 1080 width 1920 height 1080 rotation 1
+2022-06-15T16:58:50Z, 11944: Open URL: file:///E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us&win11=1#/
+2022-06-15T16:58:50Z, 11944: CefEngine::OnContextCreated
+2022-06-15T16:58:50Z, 9228: Received IPC message from main process: 200
+2022-06-15T16:58:52Z, 12664: UI CEF shutdown
+2022-06-15T16:58:59Z, 2656: QDC paths 2, modes 4, query 2, method 0
+2022-06-15T16:58:59Z, 2656: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#LGD05C0#5&340848cb&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2022-06-15T16:58:59Z, 2656: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2022-06-15T16:58:59Z, 2656: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#SGT0156#5&340848cb&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2022-06-15T16:58:59Z, 2656: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 0 1080 width 1920 height 1080 rotation 1
+2022-06-15T16:58:59Z, 2656: Open URL: file:///E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\ui\dist\index.html?skinStyle=styles/skindark.css&skinColor=%23202020&skinKey=dark&provider=steamint&lang=zh-chs&uiperf=1&win11=1#/browsewallpapers
+2022-06-15T16:58:59Z, 2656: CefEngine::OnContextInitialized
+2022-06-15T16:58:59Z, 14992: QDC paths 2, modes 4, query 2, method 4
+2022-06-15T16:58:59Z, 14992: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#LGD05C0#5&340848cb&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2022-06-15T16:58:59Z, 14992: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2022-06-15T16:58:59Z, 14992: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#SGT0156#5&340848cb&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2022-06-15T16:58:59Z, 14992: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 0 1080 width 1920 height 1080 rotation 1
+2022-06-15T16:58:59Z, 14992: Open URL: file:///E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us&win11=1#/
+2022-06-15T16:58:59Z, 13772: QDC paths 2, modes 4, query 2, method 4
+2022-06-15T16:58:59Z, 13772: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#LGD05C0#5&340848cb&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2022-06-15T16:58:59Z, 13772: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2022-06-15T16:58:59Z, 13772: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#SGT0156#5&340848cb&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2022-06-15T16:58:59Z, 13772: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 0 1080 width 1920 height 1080 rotation 1
+2022-06-15T16:58:59Z, 13772: Open URL: file:///E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us&win11=1#/
+2022-06-15T16:58:59Z, 5832: QDC paths 2, modes 4, query 2, method 4
+2022-06-15T16:58:59Z, 5832: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#LGD05C0#5&340848cb&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2022-06-15T16:58:59Z, 5832: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2022-06-15T16:58:59Z, 5832: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#SGT0156#5&340848cb&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2022-06-15T16:58:59Z, 5832: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 0 1080 width 1920 height 1080 rotation 1
+2022-06-15T16:58:59Z, 5832: Open URL: file:///E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us&win11=1#/
+2022-06-15T16:58:59Z, 3660: Steam init: 1
+2022-06-15T16:58:59Z, 7908: QDC paths 2, modes 4, query 2, method 4
+2022-06-15T16:58:59Z, 7908: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#LGD05C0#5&340848cb&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2022-06-15T16:58:59Z, 7908: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2022-06-15T16:58:59Z, 7908: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#SGT0156#5&340848cb&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2022-06-15T16:58:59Z, 7908: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 0 1080 width 1920 height 1080 rotation 1
+2022-06-15T16:58:59Z, 7908: Open URL: file:///E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us&win11=1#/
+2022-06-15T16:59:00Z, 7908: CefEngine::OnContextCreated
+2022-06-15T16:59:00Z, 7908: CefEngine::OnContextCreated
+2022-06-15T16:59:00Z, 3660: Writing 18 wallpapers to cache.
+2022-06-15T16:59:03Z, 5244: Done cleanup
+2022-06-15T17:00:01Z, 2656: UI CEF shutdown
+2022-06-15T17:01:14Z, 1848: QDC paths 2, modes 4, query 2, method 0
+2022-06-15T17:01:14Z, 1848: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#LGD05C0#5&340848cb&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2022-06-15T17:01:14Z, 1848: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2022-06-15T17:01:14Z, 1848: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#SGT0156#5&340848cb&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2022-06-15T17:01:14Z, 1848: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 0 1080 width 1920 height 1080 rotation 1
+2022-06-15T17:01:14Z, 1848: Open URL: file:///E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\ui\dist\index.html?skinStyle=styles/skindark.css&skinColor=%23202020&skinKey=dark&provider=steamint&lang=zh-chs&uiperf=1&win11=1#/browsewallpapers
+2022-06-15T17:01:14Z, 1848: CefEngine::OnContextInitialized
+2022-06-15T17:01:14Z, 7952: QDC paths 2, modes 4, query 2, method 4
+2022-06-15T17:01:14Z, 7952: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#LGD05C0#5&340848cb&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2022-06-15T17:01:14Z, 7952: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2022-06-15T17:01:14Z, 7952: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#SGT0156#5&340848cb&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2022-06-15T17:01:14Z, 7952: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 0 1080 width 1920 height 1080 rotation 1
+2022-06-15T17:01:14Z, 7952: Open URL: file:///E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us&win11=1#/
+2022-06-15T17:01:14Z, 9140: QDC paths 2, modes 4, query 2, method 4
+2022-06-15T17:01:14Z, 9140: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#LGD05C0#5&340848cb&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2022-06-15T17:01:14Z, 9140: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2022-06-15T17:01:14Z, 9140: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#SGT0156#5&340848cb&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2022-06-15T17:01:14Z, 9140: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 0 1080 width 1920 height 1080 rotation 1
+2022-06-15T17:01:14Z, 9140: Open URL: file:///E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us&win11=1#/
+2022-06-15T17:01:14Z, 3384: Steam init: 1
+2022-06-15T17:01:14Z, 10696: QDC paths 2, modes 4, query 2, method 4
+2022-06-15T17:01:14Z, 10696: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#LGD05C0#5&340848cb&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2022-06-15T17:01:14Z, 10696: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2022-06-15T17:01:14Z, 10696: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#SGT0156#5&340848cb&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2022-06-15T17:01:14Z, 10696: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 0 1080 width 1920 height 1080 rotation 1
+2022-06-15T17:01:14Z, 10696: Open URL: file:///E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us&win11=1#/
+2022-06-15T17:01:14Z, 13076: QDC paths 2, modes 4, query 2, method 4
+2022-06-15T17:01:14Z, 13076: QDC Monitor path 0. Source name \\.\DISPLAY1, target name \\?\DISPLAY#LGD05C0#5&340848cb&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 1 / 0, target mode 0
+2022-06-15T17:01:14Z, 13076: QDC path 0 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 1) position 0 0 width 1920 height 1080 rotation 1
+2022-06-15T17:01:14Z, 13076: QDC Monitor path 1. Source name \\.\DISPLAY2, target name \\?\DISPLAY#SGT0156#5&340848cb&0&UID4356#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}, adapter name \\?\PCI#VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1#4&9aa7cd8&0&0008#{5b45201d-f2f2-4f3b-85bb-30ff1f953599}. Source mode 3 / 0, target mode 2
+2022-06-15T17:01:14Z, 13076: QDC path 1 DISPLAYCONFIG_SOURCE_MODE flags 1 (virtual mode 0, source index 3) position 0 1080 width 1920 height 1080 rotation 1
+2022-06-15T17:01:14Z, 13076: Open URL: file:///E:\Enjoy\Game\SteamLibrary\steamapps\common\wallpaper_engine\ui\dist\index.html?skinStyle=styles/main.css&skinColor=%23f3f3f3&skinKey=white&provider=steamint&lang=en-us&win11=1#/
+2022-06-15T17:01:14Z, 13076: CefEngine::OnContextCreated
+2022-06-15T17:01:14Z, 13076: CefEngine::OnContextCreated
+2022-06-15T17:01:15Z, 3384: Writing 18 wallpapers to cache.
+2022-06-15T17:01:17Z, 9272: Done cleanup
+2022-06-15T17:01:21Z, 1848: UI CEF shutdown
+
+------------------------------------------------------------
+weblog.txt:
+2021-04-24T20:40:36Z, 35956: Deny request: 'D:/dev/we/windows/bin/projects/defaultprojects/corsair_collection/circuit' is a symlink or not a file (file:///D:/dev/we/windows/bin/projects/defaultprojects/corsair_collection/circuit).
+2021-04-24T20:41:58Z, 34280: Deny request: 'D:/dev/we/windows/bin/projects/defaultprojects/corsair_collection/circuit' is a symlink or not a file (file:///D:/dev/we/windows/bin/projects/defaultprojects/corsair_collection/circuit).
+2021-04-24T21:33:17Z, 37296: Deny request: 'D:/dev/we/windows/bin/projects/defaultprojects/corsair_collection/circuit' is a symlink or not a file (file:///D:/dev/we/windows/bin/projects/defaultprojects/corsair_collection/circuit).
+2021-04-24T21:33:42Z, 8900: Deny request: 'D:/dev/we/windows/bin/projects/defaultprojects/corsair_collection/circuit' is a symlink or not a file (file:///D:/dev/we/windows/bin/projects/defaultprojects/corsair_collection/circuit).
+2021-04-24T21:34:29Z, 38880: Deny request: 'D:/dev/we/windows/bin/projects/defaultprojects/corsair_collection/circuit' is a symlink or not a file (file:///D:/dev/we/windows/bin/projects/defaultprojects/corsair_collection/circuit).
+2021-04-24T21:35:40Z, 11632: Deny request: 'D:/dev/we/windows/bin/projects/defaultprojects/corsair_collection/circuit' is a symlink or not a file (file:///D:/dev/we/windows/bin/projects/defaultprojects/corsair_collection/circuit).
+2021-05-05T21:38:05Z, 3456: Deny request: 'E:/fontawesome-free-5.6.3-web/css/all.css' is a symlink or not a file (file:///E:/fontawesome-free-5.6.3-web/css/all.css).
+2021-05-05T21:38:44Z, 34692: Deny request: 'E:/fontawesome-free-5.6.3-web/css/all.css' is a symlink or not a file (file:///E:/fontawesome-free-5.6.3-web/css/all.css).
+2021-05-05T21:38:56Z, 26856: Deny request: 'E:/fontawesome-free-5.6.3-web/css/all.css' is a symlink or not a file (file:///E:/fontawesome-free-5.6.3-web/css/all.css).
+2021-06-08T12:17:54Z, 35600: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1403160205/img/city.jpg' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/1403160205/img/city.jpg).
+2021-06-08T13:41:07Z, 34684: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1403160205/img/city.jpg' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/1403160205/img/city.jpg).
+2021-06-08T13:42:36Z, 55016: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1403160205/img/city.jpg' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/1403160205/img/city.jpg).
+2021-06-08T13:51:35Z, 12604: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1403160205/img/city.jpg' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/1403160205/img/city.jpg).
+2021-06-12T19:24:56Z, 17436: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/884307090/null' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/884307090/null).
+2021-06-12T19:24:56Z, 17436: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/884307090/null' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/884307090/null).
+2021-06-12T19:24:56Z, 17436: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/884307090/destroy' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/884307090/destroy).
+2021-06-12T19:24:56Z, 17436: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/884307090/audio/0-Audio.ogg' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/884307090/audio/0-Audio.ogg).
+2021-06-12T19:24:56Z, 17436: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/884307090/null' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/884307090/null).
+2021-06-13T03:19:16Z, 27236: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg).
+2021-06-13T03:19:17Z, 27236: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg).
+2021-06-13T03:19:38Z, 29836: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg).
+2021-06-13T03:20:15Z, 25848: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg).
+2021-06-13T03:20:16Z, 25848: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg).
+2021-06-13T03:20:31Z, 40676: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg).
+2021-06-13T03:22:27Z, 26444: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg).
+2021-06-13T03:22:28Z, 26444: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg).
+2021-06-13T03:22:43Z, 36932: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/1081733658/img/faces/face-5.jpg).
+2021-06-13T22:39:24Z, 36616: Deny request: 'E:/Program Files (x86)/Steam/steamapps/workshop/content/431960/1427386345/img/city.jpg' is a symlink or not a file (file:///E:/Program%20Files%20(x86)/Steam/steamapps/workshop/content/431960/1427386345/img/city.jpg).
+2022-02-17T15:53:09Z, 3340: Deny request: 'E:/Enjoy/Game/SteamLibrary/steamapps/workshop/content/431960/884307090/null' is a symlink or not a file (file:///E:/Enjoy/Game/SteamLibrary/steamapps/workshop/content/431960/884307090/null).
+2022-02-17T15:53:09Z, 3340: Deny request: 'E:/Enjoy/Game/SteamLibrary/steamapps/workshop/content/431960/884307090/null' is a symlink or not a file (file:///E:/Enjoy/Game/SteamLibrary/steamapps/workshop/content/431960/884307090/null).
+2022-02-17T15:53:09Z, 3340: Deny request: 'E:/Enjoy/Game/SteamLibrary/steamapps/workshop/content/431960/884307090/destroy' is a symlink or not a file (file:///E:/Enjoy/Game/SteamLibrary/steamapps/workshop/content/431960/884307090/destroy).
+2022-02-17T15:53:10Z, 3340: Deny request: 'E:/Enjoy/Game/SteamLibrary/steamapps/workshop/content/431960/884307090/audio/0-Audio.ogg' is a symlink or not a file (file:///E:/Enjoy/Game/SteamLibrary/steamapps/workshop/content/431960/884307090/audio/0-Audio.ogg).
+2022-02-17T15:53:10Z, 3340: Deny request: 'E:/Enjoy/Game/SteamLibrary/steamapps/workshop/content/431960/884307090/null' is a symlink or not a file (file:///E:/Enjoy/Game/SteamLibrary/steamapps/workshop/content/431960/884307090/null).
+
+------------------------------------------------------------
+debug.log:
+No task runner for threadId 0
+[0615/130105.978:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130106.257:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130106.510:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130106.760:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130106.823:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130106.947:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130107.041:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130107.292:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130107.543:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130107.825:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130108.105:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130108.386:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130108.637:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130108.914:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130109.167:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130109.447:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130109.728:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130109.978:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130110.256:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130110.536:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130110.811:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130111.094:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130111.371:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130111.651:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130111.900:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130112.180:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130112.432:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130112.712:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130112.964:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130113.215:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130113.472:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130113.723:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130114.005:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130114.068:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130114.730:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130115.136:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130134.471:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130232.306:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130233.188:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130240.807:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130241.599:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130241.693:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130241.947:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130242.201:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130242.481:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130242.731:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130242.983:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130243.239:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130243.491:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130243.743:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130243.994:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130244.057:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130244.089:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130244.341:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130300.797:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130301.679:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130314.292:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130315.232:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130320.859:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130321.645:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130321.833:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130322.086:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130322.366:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130322.617:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130322.867:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130323.147:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130323.428:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130323.683:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130323.935:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130324.189:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130324.631:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130326.481:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130326.859:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130328.441:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130328.881:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130334.439:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130341.938:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130342.758:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130350.410:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130350.818:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130407.116:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130407.995:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130409.495:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130410.310:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130418.175:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130418.616:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130423.798:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130425.121:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130430.229:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130431.109:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130431.984:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130432.361:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130433.923:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130435.868:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130436.117:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130436.180:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130439.600:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130439.661:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130444.294:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130444.936:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130445.094:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130445.346:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130445.597:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130445.847:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130446.097:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130446.350:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130446.602:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130446.853:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130447.133:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130447.414:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130447.694:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130447.957:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130448.223:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130448.474:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130448.741:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130449.060:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130449.265:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130450.470:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130450.471:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130522.501:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130533.641:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130547.091:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130556.564:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130853.527:INFO:CONSOLE(1)] "Possibly unhandled rejection: cancel", source: file:///E:/Enjoy/Game/SteamLibrary/steamapps/common/wallpaper_engine/ui/dist/scripts/vendor.js (1)
+[0615/130859.570:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/130901.058:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132633.655:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132633.669:WARNING:frame_impl.cc(423)] OnDidFinishLoad sent to detached frame 21474836484 [5,4] will be ignored
+[0615/132633.876:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132633.881:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132633.883:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132633.883:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132633.883:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132633.883:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132633.883:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132633.884:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132633.884:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132633.920:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132633.920:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132633.921:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132634.070:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132634.072:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132634.077:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132634.079:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132634.084:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132634.222:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132634.387:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132634.429:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132638.546:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132638.592:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132638.910:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132646.430:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132750.380:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132750.395:WARNING:frame_impl.cc(423)] OnDidFinishLoad sent to detached frame 21474836484 [5,4] will be ignored
+[0615/132750.585:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132750.588:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132750.590:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132750.628:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132750.628:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132750.628:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132750.628:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132750.628:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132750.629:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132750.629:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132750.657:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132750.657:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132750.658:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132750.784:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132750.786:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132750.807:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132750.809:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132751.005:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132751.011:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132751.048:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132751.058:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/132751.151:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210700.893:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210700.909:WARNING:frame_impl.cc(423)] OnDidFinishLoad sent to detached frame 21474836484 [5,4] will be ignored
+[0615/210701.096:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210701.100:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210701.101:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210701.142:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210701.142:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210701.143:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210701.143:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210701.143:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210701.143:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210701.144:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210701.165:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210701.165:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210701.166:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210701.285:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210701.287:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210701.305:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210701.306:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210706.405:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210706.410:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210706.419:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210706.422:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210706.425:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210706.435:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210715.004:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210715.227:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210715.291:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210753.020:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0615/210847.959:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005850.831:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005850.831:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005850.832:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005850.833:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005850.833:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005850.833:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005850.839:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005850.840:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005850.933:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005850.937:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.313:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.329:WARNING:frame_impl.cc(423)] OnDidFinishLoad sent to detached frame 21474836484 [5,4] will be ignored
+[0616/005900.514:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.517:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.519:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.556:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.556:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.556:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.557:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.557:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.557:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.557:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.578:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.578:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.579:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.689:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.691:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.711:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.713:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.920:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.926:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.933:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005900.946:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005901.427:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005902.916:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005903.062:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/005955.880:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010114.784:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010114.801:WARNING:frame_impl.cc(423)] OnDidFinishLoad sent to detached frame 21474836484 [5,4] will be ignored
+[0616/010114.992:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010114.995:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010114.997:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010115.035:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010115.036:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010115.036:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010115.036:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010115.036:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010115.037:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010115.037:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010115.064:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010115.065:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010115.066:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010115.180:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010115.182:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010115.199:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010115.201:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010115.405:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010115.411:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010115.419:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010115.434:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010115.442:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010118.018:WARNING:task_impl.cc(19)] No task runner for threadId 0
+[0616/010118.110:WARNING:task_impl.cc(19)] No task runner for threadId 0
+
+------------------------------------------------------------
+
+
+DxDiag results:
+============================================================
+------------------
+System Information
+------------------
+      Time of this report: 6/16/2022, 01:03:40
+             Machine name: ZERONOFREYA
+               Machine Id: {F06860C3-C36C-4E18-974C-3DEA5BAEFAFF}
+         Operating System: Windows 11 ¼ÒÍ¥ÖÐÎÄ°æ 64-bit (10.0, Build 22000) (22000.co_release.210604-1628)
+                 Language: Chinese (Simplified) (Regional Setting: Chinese (Simplified))
+      System Manufacturer: HP
+             System Model: OMEN by HP Laptop 15-dc0xxx
+                     BIOS: F.12 (type: UEFI)
+                Processor: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz (12 CPUs), ~2.2GHz
+                   Memory: 16384MB RAM
+      Available OS Memory: 16260MB RAM
+                Page File: 9728MB used, 8963MB available
+              Windows Dir: C:\Windows
+          DirectX Version: DirectX 12
+      DX Setup Parameters: Not found
+         User DPI Setting: 96 DPI (100 percent)
+       System DPI Setting: 96 DPI (100 percent)
+          DWM DPI Scaling: Disabled
+                 Miracast: Available, no HDCP
+Microsoft Graphics Hybrid: Not Supported
+ DirectX Database Version: 1.2.2
+           DxDiag Version: 10.00.22000.0653 64bit Unicode
+
+------------
+DxDiag Notes
+------------
+      Display Tab 1: No problems found.
+      Display Tab 2: No problems found.
+        Sound Tab 1: No problems found.
+          Input Tab: No problems found.
+
+--------------------
+DirectX Debug Levels
+--------------------
+Direct3D:    0/4 (retail)
+DirectDraw:  0/4 (retail)
+DirectInput: 0/5 (retail)
+DirectMusic: 0/5 (retail)
+DirectPlay:  0/9 (retail)
+DirectSound: 0/5 (retail)
+DirectShow:  0/6 (retail)
+
+---------------
+Display Devices
+---------------
+           Card name: NVIDIA GeForce GTX 1060
+        Manufacturer: NVIDIA
+           Chip type: NVIDIA GeForce GTX 1060
+            DAC type: Integrated RAMDAC
+         Device Type: Full Device (POST)
+          Device Key: Enum\PCI\VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1
+       Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
+ Device Problem Code: No Problem
+ Driver Problem Code: Unknown
+      Display Memory: 14181 MB
+    Dedicated Memory: 6052 MB
+       Shared Memory: 8129 MB
+        Current Mode: 1920 x 1080 (32 bit) (60Hz)
+         HDR Support: Not Supported
+    Display Topology: Extend
+ Display Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709
+     Color Primaries: Red(0.639648,0.330078), Green(0.299805,0.599609), Blue(0.149414,0.059570), White Point(0.312500,0.329102)
+   Display Luminance: Min Luminance = 0.500000, Max Luminance = 270.000000, MaxFullFrameLuminance = 270.000000
+        Monitor Name: Generic PnP Monitor
+       Monitor Model: unknown
+          Monitor Id: LGD05C0
+         Native Mode: 1920 x 1080(p) (143.998Hz)
+         Output Type: Displayport Embedded
+Monitor Capabilities: HDR Not Supported
+Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
+      Advanced Color: Not Supported
+         Driver Name: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvldumdx.dll,C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvldumdx.dll,C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvldumdx.dll,C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvldumdx.dll
+ Driver File Version: 30.00.0015.1179 (English)
+      Driver Version: 30.0.15.1179
+         DDI Version: 12
+      Feature Levels: 12_1,12_0,11_1,11_0,10_1,10_0,9_3,9_2,9_1
+        Driver Model: WDDM 3.0
+ Hardware Scheduling: DriverSupportState:Stable Enabled:True 
+ Graphics Preemption: Pixel
+  Compute Preemption: Dispatch
+            Miracast: Not Supported by Graphics driver
+      Detachable GPU: No
+ Hybrid Graphics GPU: Discrete
+      Power P-states: Not Supported
+      Virtualization: Paravirtualization 
+          Block List: No Blocks
+  Catalog Attributes: Universal:False Declarative:False 
+   Driver Attributes: Final Retail
+    Driver Date/Size: 2022/2/10 8:00:00, 1058400 bytes
+         WHQL Logo'd: n/a
+     WHQL Date Stamp: n/a
+   Device Identifier: {D7B71E3E-5F20-11CF-1777-D4A40EC2D335}
+           Vendor ID: 0x10DE
+           Device ID: 0x1C60
+           SubSys ID: 0x84DB103C
+         Revision ID: 0x00A1
+  Driver Strong Name: oem29.inf:0f066de3488e40ec:Section069:30.0.15.1179:pci\ven_10de&dev_1c60&subsys_84db103c
+      Rank Of Driver: 00D10001
+         Video Accel: 
+         DXVA2 Modes: {86695F12-340E-4F04-9FD3-9253DD327460}  DXVA2_ModeMPEG2_VLD  {6F3EC719-3735-42CC-8063-65CC3CB36616}  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  {32FCFE3F-DE46-4A49-861B-AC71110649D5}  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeHEVC_VLD_Main10  {20BB8B0A-97AA-4571-8E99-64E60606C1A6}  {15DF9B21-06C4-47F1-841E-A67C97D7F312}  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  {9947EC6F-689B-11DC-A320-0019DBBC4184}  {33FCFE41-DE46-4A49-861B-AC71110649D5}  DXVA2_ModeVP9_VLD_Profile0  {6AFFD11E-1D96-42B1-A215-93A31F09A53D}  {914C84A3-4078-4FA9-984C-E2F262CB5C9C}  
+   Deinterlace Caps: {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+        D3D9 Overlay: Not Supported
+             DXVA-HD: Supported
+        DDraw Status: Enabled
+          D3D Status: Enabled
+          AGP Status: Enabled
+       MPO MaxPlanes: 1
+            MPO Caps: Not Supported
+         MPO Stretch: Not Supported
+     MPO Media Hints: Not Supported
+         MPO Formats: Not Supported
+    PanelFitter Caps: Not Supported
+ PanelFitter Stretch: Not Supported
+
+           Card name: NVIDIA GeForce GTX 1060
+        Manufacturer: NVIDIA
+           Chip type: NVIDIA GeForce GTX 1060
+            DAC type: Integrated RAMDAC
+         Device Type: Full Device (POST)
+          Device Key: Enum\PCI\VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1
+       Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
+ Device Problem Code: No Problem
+ Driver Problem Code: Unknown
+      Display Memory: 14181 MB
+    Dedicated Memory: 6052 MB
+       Shared Memory: 8129 MB
+        Current Mode: 1920 x 1080 (32 bit) (60Hz)
+         HDR Support: Not Supported
+    Display Topology: Extend
+ Display Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709
+     Color Primaries: Red(0.639648,0.330078), Green(0.299805,0.599609), Blue(0.149414,0.059570), White Point(0.312500,0.329102)
+   Display Luminance: Min Luminance = 0.281100, Max Luminance = 343.748291, MaxFullFrameLuminance = 343.748291
+        Monitor Name: Generic PnP Monitor
+       Monitor Model: GoBiggeR
+          Monitor Id: SGT0156
+         Native Mode: 1920 x 1080(p) (60.000Hz)
+         Output Type: Displayport External
+Monitor Capabilities: HDR Not Supported
+Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
+      Advanced Color: Not Supported
+         Driver Name: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvldumdx.dll,C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvldumdx.dll,C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvldumdx.dll,C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvldumdx.dll
+ Driver File Version: 30.00.0015.1179 (English)
+      Driver Version: 30.0.15.1179
+         DDI Version: 12
+      Feature Levels: 12_1,12_0,11_1,11_0,10_1,10_0,9_3,9_2,9_1
+        Driver Model: WDDM 3.0
+ Hardware Scheduling: DriverSupportState:Stable Enabled:True 
+ Graphics Preemption: Pixel
+  Compute Preemption: Dispatch
+            Miracast: Not Supported by Graphics driver
+      Detachable GPU: No
+ Hybrid Graphics GPU: Discrete
+      Power P-states: Not Supported
+      Virtualization: Paravirtualization 
+          Block List: No Blocks
+  Catalog Attributes: Universal:False Declarative:False 
+   Driver Attributes: Final Retail
+    Driver Date/Size: 2022/2/10 8:00:00, 1058400 bytes
+         WHQL Logo'd: n/a
+     WHQL Date Stamp: n/a
+   Device Identifier: {D7B71E3E-5F20-11CF-1777-D4A40EC2D335}
+           Vendor ID: 0x10DE
+           Device ID: 0x1C60
+           SubSys ID: 0x84DB103C
+         Revision ID: 0x00A1
+  Driver Strong Name: oem29.inf:0f066de3488e40ec:Section069:30.0.15.1179:pci\ven_10de&dev_1c60&subsys_84db103c
+      Rank Of Driver: 00D10001
+         Video Accel: 
+         DXVA2 Modes: {86695F12-340E-4F04-9FD3-9253DD327460}  DXVA2_ModeMPEG2_VLD  {6F3EC719-3735-42CC-8063-65CC3CB36616}  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  {32FCFE3F-DE46-4A49-861B-AC71110649D5}  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeHEVC_VLD_Main10  {20BB8B0A-97AA-4571-8E99-64E60606C1A6}  {15DF9B21-06C4-47F1-841E-A67C97D7F312}  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  {9947EC6F-689B-11DC-A320-0019DBBC4184}  {33FCFE41-DE46-4A49-861B-AC71110649D5}  DXVA2_ModeVP9_VLD_Profile0  {6AFFD11E-1D96-42B1-A215-93A31F09A53D}  {914C84A3-4078-4FA9-984C-E2F262CB5C9C}  
+   Deinterlace Caps: {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+        D3D9 Overlay: Not Supported
+             DXVA-HD: Supported
+        DDraw Status: Enabled
+          D3D Status: Enabled
+          AGP Status: Enabled
+       MPO MaxPlanes: 1
+            MPO Caps: Not Supported
+         MPO Stretch: Not Supported
+     MPO Media Hints: Not Supported
+         MPO Formats: Not Supported
+    PanelFitter Caps: Not Supported
+ PanelFitter Stretch: Not Supported
+
+-------------
+Sound Devices
+-------------
+            Description: Speaker / Headphone (Realtek(R) Audio)
+ Default Sound Playback: Yes
+ Default Voice Playback: Yes
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0295&SUBSYS_103C84DB&REV_1000
+        Manufacturer ID: N/A
+             Product ID: N/A
+                   Type: N/A
+            Driver Name: RTKVHD64.sys
+         Driver Version: 6.0.8716.1 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: n/a
+          Date and Size: 2019/5/28 8:00:00, 6871640 bytes
+            Other Files: 
+        Driver Provider: Realtek Semiconductor Corp.
+         HW Accel Level: Emulation Only
+              Cap Flags: 0x0
+    Min/Max Sample Rate: 0, 0
+Static/Strm HW Mix Bufs: 0, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
+---------------------
+Sound Capture Devices
+---------------------
+---------------------
+Video Capture Devices
+Number of Devices: 1
+---------------------
+           FriendlyName: HP Wide Vision HD Camera
+               Category: Camera
+           SymbolicLink: \\?\usb#vid_05c8&pid_03bc&mi_00#6&bda6355&0&0000#{e5323777-f976-4f5b-9b55-b94699c46e44}\global
+               Location: Front
+               Rotation: 0
+      SensorOrientation: 0
+           Manufacturer: Microsoft
+             HardwareID: USB\VID_05C8&PID_03BC&REV_0003&MI_00,USB\VID_05C8&PID_03BC&MI_00
+             DriverDesc: USB Video Device
+         DriverProvider: Microsoft
+          DriverVersion: 10.0.22000.653
+      DriverDateEnglish: 6/21/2006 00:00:00
+    DriverDateLocalized: 2006/6/21 0:00:00
+                Service: usbvideo
+                  Class: Camera
+          DevNodeStatus: 180200A[DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER]
+            ContainerId: {00000000-0000-0000-FFFF-FFFFFFFFFFFF}
+            ProblemCode: No Problem
+  BusReportedDeviceDesc: HP Wide Vision HD Camera
+                 Parent: USB\VID_05C8&PID_03BC\5&aaa7d52&0&6
+      DriverProblemDesc: n/a
+           UpperFilters: n/a
+           LowerFilters: WdmCompanionFilter
+                  Stack: \Driver\ksthunk,\Driver\hrdevmon,\Driver\usbvideo,\Driver\ACPI,\Driver\usbccgp
+      ContainerCategory: n/a
+          SensorGroupID: n/a
+                   MFT0: n/a
+                   DMFT: n/a
+    CustomCaptureSource: n/a
+  DependentStillCapture: n/a
+     EnablePlatformDMFT: n/a
+              DMFTChain: n/a
+ EnableDshowRedirection: n/a
+     FrameServerEnabled: n/a
+        AnalogProviders: n/a
+         MSXUCapability: n/a
+             ProfileIDs: n/a
+
+-------------------
+DirectInput Devices
+-------------------
+      Device Name: Êó±ê
+         Attached: 1
+    Controller ID: n/a
+Vendor/Product ID: n/a
+        FF Driver: n/a
+
+      Device Name: ¼üÅÌ
+         Attached: 1
+    Controller ID: n/a
+Vendor/Product ID: n/a
+        FF Driver: n/a
+
+      Device Name: USB Receiver
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x046D, 0xC537
+        FF Driver: n/a
+
+      Device Name: Rapoo Gaming Keyboard
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x24AE, 0x4006
+        FF Driver: n/a
+
+      Device Name: Rapoo Gaming Keyboard
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x24AE, 0x4006
+        FF Driver: n/a
+
+      Device Name: Rapoo Gaming Keyboard
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x24AE, 0x4006
+        FF Driver: n/a
+
+      Device Name: Rapoo Gaming Keyboard
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x24AE, 0x4006
+        FF Driver: n/a
+
+      Device Name: USB Receiver
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x046D, 0xC537
+        FF Driver: n/a
+
+      Device Name: USB Receiver
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x046D, 0xC537
+        FF Driver: n/a
+
+      Device Name: HP Wireless Button Driver
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x0001, 0x0001
+        FF Driver: n/a
+
+      Device Name: MGE USB UPS
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x0463, 0xFFFF
+        FF Driver: n/a
+
+      Device Name: USB Receiver
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x046D, 0xC537
+        FF Driver: n/a
+
+      Device Name: USB Receiver
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x046D, 0xC537
+        FF Driver: n/a
+
+      Device Name: Multi-Touch by G2TSP
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x2A94, 0x504D
+        FF Driver: n/a
+
+Poll w/ Interrupt: No
+
+-----------
+USB Devices
+-----------
++ USB ¸ù¼¯ÏßÆ÷(USB 3.0)
+| Vendor/Product ID: 0x8086, 0xA36D
+| Matching Device ID: USB\ROOT_HUB30
+| Service: USBHUB3
+| Driver: USBHUB3.SYS, 11/4/2021 22:15:53, 696656 bytes
+| 
++-+ Í¨ÓÃ USB ¼¯ÏßÆ÷
+| | Vendor/Product ID: 0x05E3, 0x0610
+| | Location: Port_#0001.Hub_#0001
+| | Matching Device ID: USB\USB20_HUB
+| | Service: USBHUB3
+| | Driver: USBHUB3.SYS, 11/4/2021 22:15:53, 696656 bytes
+| | 
+| +-+ USB Composite Device
+| | | Vendor/Product ID: 0x046D, 0xC537
+| | | Location: Port_#0001.Hub_#0004
+| | | Matching Device ID: USB\COMPOSITE
+| | | Service: usbccgp
+| | | Driver: usbccgp.sys, 6/5/2021 20:04:46, 221512 bytes
+| | | 
+| | +-+ USB ÊäÈëÉè±¸
+| | | | Vendor/Product ID: 0x046D, 0xC537
+| | | | Location: 0000.0014.0000.001.001.000.000.000.000
+| | | | Matching Device ID: USB\Class_03&SubClass_01
+| | | | Service: HidUsb
+| | | | Driver: hidusb.sys, 6/5/2021 20:04:46, 73728 bytes
+| | | | Driver: hidclass.sys, 6/5/2021 20:04:46, 274432 bytes
+| | | | Driver: hidparse.sys, 6/5/2021 20:04:46, 77824 bytes
+| | | | 
+| | | +-+ Logitech Cordless Gaming Receiver
+| | | | | Vendor/Product ID: 0x046D, 0xC537
+| | | | | Matching Device ID: hid\vid_046d&pid_c537&mi_00
+| | | | | Lower Filters: LGSHidFilt
+| | | | | Service: mouhid
+| | | | | Driver: LGSHidFilt.Sys, 10/5/2018 16:44:14, 64280 bytes
+| | | | | Driver: mouhid.sys, 5/11/2022 11:38:03, 65536 bytes
+| | | | | Driver: mouclass.sys, 5/11/2022 11:38:03, 91488 bytes
+| | | | | Driver: LkmdfCoInst.dll, 10/5/2018 16:44:14, 1843480 bytes
+| | | | 
+| | +-+ USB ÊäÈëÉè±¸
+| | | | Vendor/Product ID: 0x046D, 0xC537
+| | | | Location: 0000.0014.0000.001.001.000.000.000.000
+| | | | Matching Device ID: USB\Class_03
+| | | | Service: HidUsb
+| | | | Driver: hidusb.sys, 6/5/2021 20:04:46, 73728 bytes
+| | | | Driver: hidclass.sys, 6/5/2021 20:04:46, 274432 bytes
+| | | | Driver: hidparse.sys, 6/5/2021 20:04:46, 77824 bytes
+| | | | 
+| | | +-+ HID Keyboard Device
+| | | | | Vendor/Product ID: 0x046D, 0xC537
+| | | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
+| | | | | Service: kbdhid
+| | | | | Driver: kbdhid.sys, 5/11/2022 11:38:04, 69632 bytes
+| | | | | Driver: kbdclass.sys, 5/11/2022 11:38:04, 91488 bytes
+| | | 
+| +-+ USB Composite Device
+| | | Vendor/Product ID: 0x24AE, 0x4006
+| | | Location: Port_#0002.Hub_#0004
+| | | Matching Device ID: USB\COMPOSITE
+| | | Service: usbccgp
+| | | Driver: usbccgp.sys, 6/5/2021 20:04:46, 221512 bytes
+| | | 
+| | +-+ USB ÊäÈëÉè±¸
+| | | | Vendor/Product ID: 0x24AE, 0x4006
+| | | | Location: 0000.0014.0000.001.002.000.000.000.000
+| | | | Matching Device ID: USB\Class_03&SubClass_01
+| | | | Service: HidUsb
+| | | | Driver: hidusb.sys, 6/5/2021 20:04:46, 73728 bytes
+| | | | Driver: hidclass.sys, 6/5/2021 20:04:46, 274432 bytes
+| | | | Driver: hidparse.sys, 6/5/2021 20:04:46, 77824 bytes
+| | | | 
+| | | +-+ HID Keyboard Device
+| | | | | Vendor/Product ID: 0x24AE, 0x4006
+| | | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
+| | | | | Service: kbdhid
+| | | | | Driver: kbdhid.sys, 5/11/2022 11:38:04, 69632 bytes
+| | | | | Driver: kbdclass.sys, 5/11/2022 11:38:04, 91488 bytes
+| | | | 
+| | +-+ USB ÊäÈëÉè±¸
+| | | | Vendor/Product ID: 0x24AE, 0x4006
+| | | | Location: 0000.0014.0000.001.002.000.000.000.000
+| | | | Matching Device ID: USB\Class_03
+| | | | Service: HidUsb
+| | | | Driver: hidusb.sys, 6/5/2021 20:04:46, 73728 bytes
+| | | | Driver: hidclass.sys, 6/5/2021 20:04:46, 274432 bytes
+| | | | Driver: hidparse.sys, 6/5/2021 20:04:46, 77824 bytes
+| | | | 
+| | | +-+ HID Keyboard Device
+| | | | | Vendor/Product ID: 0x24AE, 0x4006
+| | | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
+| | | | | Service: kbdhid
+| | | | | Driver: kbdhid.sys, 5/11/2022 11:38:04, 69632 bytes
+| | | | | Driver: kbdclass.sys, 5/11/2022 11:38:04, 91488 bytes
+| | | | | 
+| | | +-+ HID-compliant mouse
+| | | | | Vendor/Product ID: 0x24AE, 0x4006
+| | | | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
+| | | | | Service: mouhid
+| | | | | Driver: mouhid.sys, 5/11/2022 11:38:03, 65536 bytes
+| | | | | Driver: mouclass.sys, 5/11/2022 11:38:03, 91488 bytes
+
+----------------
+Gameport Devices
+----------------
+
+------------
+PS/2 Devices
+------------
++ PS/2 ±ê×¼¼üÅÌ
+| Matching Device ID: *PNP0303
+| Service: i8042prt
+| Driver: i8042prt.sys, 5/11/2022 11:38:04, 155648 bytes
+| Driver: kbdclass.sys, 5/11/2022 11:38:04, 91488 bytes
+| 
++ Synaptics SMBus TouchPad
+| Matching Device ID: ACPI\SYN327C
+| Upper Filters: SynTP
+| Service: i8042prt
+| Driver: SynTP.sys, 8/21/2019 05:57:26, 768856 bytes
+| Driver: SynTPEnh.exe, 8/21/2019 05:57:26, 4312408 bytes
+| Driver: SynTPRes.dll, 8/21/2019 05:57:24, 19840344 bytes
+| Driver: SynTPAPI.dll, 8/21/2019 05:57:24, 275288 bytes
+| Driver: SynCOM.dll, 8/21/2019 05:57:20, 808792 bytes
+| Driver: SynTPEnhService.exe, 8/21/2019 05:57:24, 381784 bytes
+| Driver: mouclass.sys, 5/11/2022 11:38:03, 91488 bytes
+| Driver: i8042prt.sys, 5/11/2022 11:38:04, 155648 bytes
+
+------------------------
+Disk & DVD/CD-ROM Drives
+------------------------
+      Drive: C:
+ Free Space: 27.8 GB
+Total Space: 66.6 GB
+File System: NTFS
+      Model: SAMSUNG MZVLW128HEGR-000H1
+
+      Drive: D:
+ Free Space: 4.2 GB
+Total Space: 54.5 GB
+File System: NTFS
+      Model: SAMSUNG MZVLW128HEGR-000H1
+
+      Drive: E:
+ Free Space: 92.2 GB
+Total Space: 953.9 GB
+File System: NTFS
+      Model: HGST HTS721010A9E630
+
+--------------
+System Devices
+--------------
+     Name: ±ê×¼ NVM Express ¿ØÖÆÆ÷
+Device ID: PCI\VEN_144D&DEV_A804&SUBSYS_A801144D&REV_00\4&126E0FD0&0&00E8
+   Driver: C:\Windows\system32\DRIVERS\stornvme.sys, 10.00.22000.0527 (English), 3/9/2022 20:42:28, 226672 bytes
+
+     Name: PCI Éè±¸
+Device ID: PCI\VEN_10EC&DEV_522A&SUBSYS_84DB103C&REV_01\00000001004CE00000
+   Driver: n/a
+
+     Name: Intel(R) PCI Express Root Port #9 - A330
+Device ID: PCI\VEN_8086&DEV_A330&SUBSYS_84DB103C&REV_F0\3&11583659&0&E8
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.22000.0653 (Chinese (Simplified)), 5/11/2022 11:38:02, 537952 bytes
+
+     Name: PCI Express ¸ù¶Ë¿Ú
+Device ID: PCI\VEN_8086&DEV_1901&SUBSYS_84DB103C&REV_07\3&11583659&0&08
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.22000.0653 (Chinese (Simplified)), 5/11/2022 11:38:02, 537952 bytes
+
+     Name: NVIDIA GeForce GTX 1060
+Device ID: PCI\VEN_10DE&DEV_1C60&SUBSYS_84DB103C&REV_A1\4&9AA7CD8&0&0008
+   Driver: C:\Windows\system32\DRIVERS\NVIDIA Corporation\Drs\dbInstaller.exe, 30.00.0015.1179 (English), 2/28/2022 19:13:48, 731072 bytes
+   Driver: C:\Windows\system32\DRIVERS\NVIDIA Corporation\Drs\nvdrsdb.bin, 2/28/2022 18:34:44, 1829560 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\NvContainerSetup.exe, 1.00.0011.0000 (Chinese (Simplified)), 2/28/2022 19:15:52, 9663928 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\NvCplSetupInt.exe, 1.00.0011.0000 (Chinese (Simplified)), 2/28/2022 19:15:56, 32777792 bytes
+   Driver: C:\Windows\system32\lxss\lib\libcuda.so, 2/28/2022 18:34:42, 137240 bytes
+   Driver: C:\Windows\system32\lxss\lib\libcuda.so.1, 2/28/2022 18:34:42, 137240 bytes
+   Driver: C:\Windows\system32\lxss\lib\libcuda.so.1.1, 2/28/2022 18:34:42, 137240 bytes
+   Driver: C:\Windows\system32\lxss\lib\libnvcuvid.so, 2/28/2022 18:34:42, 5864608 bytes
+   Driver: C:\Windows\system32\lxss\lib\libnvcuvid.so.1, 2/28/2022 18:34:42, 5864608 bytes
+   Driver: C:\Windows\system32\lxss\lib\libnvdxdlkernels.so, 2/28/2022 18:34:42, 35512144 bytes
+   Driver: C:\Windows\system32\lxss\lib\libnvidia-encode.so, 2/28/2022 18:34:42, 424400 bytes
+   Driver: C:\Windows\system32\lxss\lib\libnvidia-encode.so.1, 2/28/2022 18:34:42, 424400 bytes
+   Driver: C:\Windows\system32\lxss\lib\libnvidia-ml.so.1, 2/28/2022 18:34:42, 207360 bytes
+   Driver: C:\Windows\system32\lxss\lib\libnvidia-opticalflow.so, 2/28/2022 18:34:42, 354768 bytes
+   Driver: C:\Windows\system32\lxss\lib\libnvidia-opticalflow.so.1, 2/28/2022 18:34:42, 354768 bytes
+   Driver: C:\Windows\system32\lxss\lib\libnvwgf2umx.so, 2/28/2022 18:34:42, 45918760 bytes
+   Driver: C:\Windows\system32\lxss\lib\nvidia-smi, 2/28/2022 18:34:44, 690808 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\license.txt, 6/17/2021 20:01:32, 28827 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\MCU.exe, 1.01.5204.20580 (Chinese (Simplified)), 2/28/2022 19:14:34, 849024 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvdebugdump.exe, 6.14.0015.1179 (English), 2/28/2022 19:16:26, 455808 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvidia-smi.exe, 8.17.0015.1179 (English), 2/28/2022 19:17:32, 712640 bytes
+   Driver: C:\Program Files\NVIDIA Corporation\NVSMI\nvml.dll, 8.17.0015.1179 (English), 2/28/2022 19:18:14, 717760 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvopencl32.dll, 30.00.0015.1179 (English), 2/28/2022 19:18:52, 16294840 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvopencl64.dll, 30.00.0015.1179 (English), 2/28/2022 19:18:58, 18972600 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvcompiler32.dll, 30.00.0015.1179 (English), 2/28/2022 19:14:54, 41488320 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvcompiler64.dll, 30.00.0015.1179 (English), 2/28/2022 19:15:06, 46250976 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvcompilernext32.dll, 30.00.0015.1179 (English), 2/28/2022 19:15:20, 60179904 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvcompilernext64.dll, 30.00.0015.1179 (English), 2/28/2022 19:15:36, 67798496 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvlddmkm.sys, 30.00.0015.1179 (English), 2/28/2022 19:18:04, 42296960 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvpciflt.sys, 30.00.0015.1179 (English), 2/28/2022 19:19:26, 51648 bytes
+   Driver: C:\Windows\system32\DRIVERS\nvlddmkm.sys, 30.00.0015.1179 (English), 2/28/2022 19:18:04, 42296960 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\libcuda.so.1.1, 2/28/2022 18:34:42, 22555496 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\libcuda_loader.so, 2/28/2022 18:34:42, 137240 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\libnvcuvid.so.1, 2/28/2022 18:34:42, 5864608 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\libnvdxdlkernels.so, 2/28/2022 18:34:42, 35512144 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\libnvidia-encode.so.1, 2/28/2022 18:34:42, 424400 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\libnvidia-ml.so.1, 2/28/2022 18:34:42, 1869112 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\libnvidia-ml_loader.so, 2/28/2022 18:34:42, 207360 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\libnvidia-nvvm.so, 2/28/2022 18:34:42, 26941176 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\libnvidia-opticalflow.so.1, 2/28/2022 18:34:42, 354768 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\libnvidia-ptxjitcompiler.so.1, 2/28/2022 18:34:42, 11419032 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\libnvwgf2umx.so, 2/28/2022 18:34:42, 45918760 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nv-vk64.json, 2/28/2022 18:34:42, 671 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvDecMFTMjpeg.dll, 30.00.0015.1179 (English), 2/28/2022 19:16:28, 637568 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvDecMFTMjpegx.dll, 30.00.0015.1179 (English), 2/28/2022 19:16:30, 814520 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvEncMFTH264.dll, 30.00.0015.1179 (English), 2/28/2022 19:16:40, 1173984 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvEncMFTH264x.dll, 30.00.0015.1179 (English), 2/28/2022 19:16:42, 1460192 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvEncMFThevc.dll, 30.00.0015.1179 (English), 2/28/2022 19:16:48, 1176744 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvEncMFThevcx.dll, 30.00.0015.1179 (English), 2/28/2022 19:16:50, 1473504 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvcuda32.dll, 30.00.0015.1179 (English), 2/28/2022 19:15:58, 20415656 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvcuda64.dll, 30.00.0015.1179 (English), 2/28/2022 19:16:06, 23580128 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvd3dumx.dll, 30.00.0015.1179 (English), 2/28/2022 19:13:02, 24975696 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvd3dumx_cfg.dll, 30.00.0015.1179 (English), 2/28/2022 19:13:10, 25220936 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvdxdlkernels.dll, 2/28/2022 19:16:36, 35818624 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvidia-smi, 2/28/2022 18:34:44, 690808 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvldumdx.dll, 30.00.0015.1179 (English), 2/28/2022 19:13:30, 1058400 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvml.dll, 8.17.0015.1179 (English), 2/28/2022 19:18:12, 1168304 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvoglv64.dll, 30.00.0015.1179 (English), 2/28/2022 19:18:40, 49781176 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvoptix.bin, 2/28/2022 18:34:56, 133668492 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvoptix.dll, 7.04.0001.0000 (English), 2/28/2022 19:19:10, 43220920 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvptxJitCompiler32.dll, 30.00.0015.1179 (English), 2/28/2022 19:19:42, 7977408 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvptxJitCompiler64.dll, 30.00.0015.1179 (English), 2/28/2022 19:19:46, 9100968 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvrtum64.dll, 30.00.0015.1179 (English), 2/28/2022 19:19:52, 72649896 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvvm64_40_0.dll, 6.14.0011.9000 (English), 2/28/2022 19:20:20, 17955968 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvwgf2umx.dll, 30.00.0015.1179 (English), 2/28/2022 19:13:44, 43286472 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvwgf2umx_cfg.dll, 30.00.0015.1179 (English), 2/28/2022 19:13:58, 43697880 bytes
+   Driver: C:\Windows\system32\NvFBC64.dll, 6.14.0015.1179 (English), 2/28/2022 19:17:02, 2121384 bytes
+   Driver: C:\Windows\system32\NvIFR64.dll, 6.14.0015.1179 (English), 2/28/2022 19:17:56, 1531872 bytes
+   Driver: C:\Windows\system32\OpenCL.dll, 3.00.0001.0000 (English), 2/28/2022 19:20:36, 1466808 bytes
+   Driver: C:\Windows\system32\nvEncodeAPI64.dll, 30.00.0015.1179 (English), 2/28/2022 19:16:54, 985048 bytes
+   Driver: C:\Windows\system32\nvapi64.dll, 30.00.0015.1179 (English), 2/28/2022 19:12:50, 7612304 bytes
+   Driver: C:\Windows\system32\nvcuda.dll, 30.00.0015.1179 (English), 2/28/2022 19:16:18, 2934704 bytes
+   Driver: C:\Windows\system32\nvcuvid.dll, 7.17.0015.1179 (English), 2/28/2022 19:16:24, 8611456 bytes
+   Driver: C:\Windows\system32\nvinfo.pb, 2/28/2022 18:34:44, 73249 bytes
+   Driver: C:\Windows\system32\nvofapi64.dll, 2/28/2022 19:18:26, 798144 bytes
+   Driver: C:\Windows\system32\vulkan-1-999-0-0-0.dll, 1.03.0198.0001 (English), 2/28/2022 19:20:52, 1432312 bytes
+   Driver: C:\Windows\system32\vulkan-1.dll, 1.03.0198.0001 (English), 2/28/2022 19:20:52, 1432312 bytes
+   Driver: C:\Windows\system32\vulkaninfo-1-999-0-0-0.exe, 1.03.0198.0001 (English), 2/28/2022 19:21:02, 1905912 bytes
+   Driver: C:\Windows\system32\vulkaninfo.exe, 1.03.0198.0001 (English), 2/28/2022 19:21:02, 1905912 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\DisplayDriverRAS.dll, 1.10.0000.0000 (English), 2/28/2022 19:13:52, 2618512 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nv-vk32.json, 2/28/2022 18:34:42, 671 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvIccAdvancedColorIdentity.icm, 2/28/2022 18:34:44, 3288 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvd3dum.dll, 30.00.0015.1179 (English), 2/28/2022 19:12:54, 21252864 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvd3dum_cfg.dll, 30.00.0015.1179 (English), 2/28/2022 19:13:20, 21657528 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvldumd.dll, 30.00.0015.1179 (English), 2/28/2022 19:13:28, 881160 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvoglv32.dll, 30.00.0015.1179 (English), 2/28/2022 19:18:28, 36474496 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvwgf2um.dll, 30.00.0015.1179 (English), 2/28/2022 19:13:32, 35327728 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\nvwgf2um_cfg.dll, 30.00.0015.1179 (English), 2/28/2022 19:14:12, 35942272 bytes
+   Driver: C:\Windows\SysWow64\NvFBC.dll, 6.14.0015.1179 (English), 2/28/2022 19:17:00, 1602728 bytes
+   Driver: C:\Windows\SysWow64\NvIFR.dll, 6.14.0015.1179 (English), 2/28/2022 19:17:52, 1177768 bytes
+   Driver: C:\Windows\SysWow64\OpenCL.dll, 3.00.0001.0000 (English), 2/28/2022 19:20:34, 1208248 bytes
+   Driver: C:\Windows\SysWow64\nvEncodeAPI.dll, 30.00.0015.1179 (English), 2/28/2022 19:16:54, 795616 bytes
+   Driver: C:\Windows\SysWow64\nvapi.dll, 30.00.0015.1179 (English), 2/28/2022 19:12:48, 6459992 bytes
+   Driver: C:\Windows\SysWow64\nvcuda.dll, 30.00.0015.1179 (English), 2/28/2022 19:16:16, 5098112 bytes
+   Driver: C:\Windows\SysWow64\nvcuvid.dll, 7.17.0015.1179 (English), 2/28/2022 19:16:20, 7713920 bytes
+   Driver: C:\Windows\SysWow64\nvofapi.dll, 2/28/2022 19:18:24, 636032 bytes
+   Driver: C:\Windows\SysWow64\vulkan-1-999-0-0-0.dll, 1.03.0198.0001 (English), 2/28/2022 19:21:00, 1145616 bytes
+   Driver: C:\Windows\SysWow64\vulkan-1.dll, 1.03.0198.0001 (English), 2/28/2022 19:21:00, 1145616 bytes
+   Driver: C:\Windows\SysWow64\vulkaninfo-1-999-0-0-0.exe, 1.03.0198.0001 (English), 2/28/2022 19:21:04, 1478384 bytes
+   Driver: C:\Windows\SysWow64\vulkaninfo.exe, 1.03.0198.0001 (English), 2/28/2022 19:21:04, 1478384 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\nvhm.inf_amd64_f6b7a3db0062e530\NvTelemetry64.dll, 14.03.0060.0000 (English), 2/28/2022 19:20:18, 4465048 bytes
+   Driver: C:\Windows\system32\nvdispco6451179.dll, 2.00.0060.0000 (English), 2/28/2022 19:16:32, 1734072 bytes
+   Driver: C:\Windows\system32\nvdispgenco6451179.dll, 2.00.0029.0002 (English), 2/28/2022 19:16:34, 1491584 bytes
+
+     Name: Synaptics SMBus Driver
+Device ID: PCI\VEN_8086&DEV_A323&SUBSYS_84DB103C&REV_10\3&11583659&0&FC
+   Driver: C:\Windows\system32\DRIVERS\Smb_driver_Intel.sys, 19.05.0035.0047 (English), 8/21/2019 05:57:20, 48984 bytes
+
+     Name: High Definition Audio ¿ØÖÆÆ÷
+Device ID: PCI\VEN_8086&DEV_A348&SUBSYS_84DB103C&REV_10\3&11583659&0&FB
+   Driver: C:\Windows\system32\DRIVERS\hdaudbus.sys, 10.00.22000.0001 (English), 6/5/2021 20:04:43, 180224 bytes
+   Driver: C:\Windows\system32\DRIVERS\drmk.sys, 10.00.22000.0653 (English), 5/11/2022 11:38:01, 135168 bytes
+   Driver: C:\Windows\system32\DRIVERS\portcls.sys, 10.00.22000.0653 (English), 5/11/2022 11:38:01, 462848 bytes
+
+     Name: Intel(R) 300 Series Chipset Family LPC Controller - A30D
+Device ID: PCI\VEN_8086&DEV_A30D&SUBSYS_84DB103C&REV_10\3&11583659&0&F8
+   Driver: C:\Windows\system32\DRIVERS\msisadrv.sys, 10.00.22000.0001 (English), 6/5/2021 20:04:45, 53576 bytes
+
+     Name: Intel(R) Thermal Subsystem - A379
+Device ID: PCI\VEN_8086&DEV_A379&SUBSYS_84DB103C&REV_10\3&11583659&0&90
+   Driver: n/a
+
+     Name: PCI Express ÉÏÓÎ½»»»»ú¶Ë¿Ú
+Device ID: PCI\VEN_8086&DEV_15DA&SUBSYS_84DB00F0&REV_02\U0EDEDD19B3B7D00000
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.22000.0653 (Chinese (Simplified)), 5/11/2022 11:38:02, 537952 bytes
+
+     Name: Intel(R) Chipset SATA/PCIe RST Premium Controller
+Device ID: PCI\VEN_8086&DEV_282A&SUBSYS_84DB103C&REV_10\3&11583659&0&B8
+   Driver: C:\Windows\system32\DRIVERS\iaStorAC.sys, 17.05.0002.1024 (English), 7/19/2019 07:14:54, 1036496 bytes
+   Driver: C:\Windows\system32\DRIVERS\iaStorAfs.sys, 17.05.0002.1024 (English), 7/19/2019 07:14:54, 75472 bytes
+   Driver: C:\Windows\system32\iaStorAfsService.exe, 17.05.0002.1024 (English), 7/19/2019 07:14:56, 2873552 bytes
+   Driver: C:\Windows\system32\iaStorAfsNative.exe, 17.05.0002.1024 (English), 7/19/2019 07:14:56, 221904 bytes
+   Driver: C:\Windows\system32\Optane.dll, 17.05.0002.1024 (English), 7/19/2019 07:14:56, 116432 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\iastorac.inf_amd64_6ca78a08b838e305\RstMwService.exe, 17.05.0002.1024 (English), 7/19/2019 07:14:56, 2158800 bytes
+   Driver: C:\Windows\system32\RstMwEventLogMsg.dll, 7/19/2019 07:14:56, 27344 bytes
+   Driver: C:\Windows\system32\OptaneEventLogMsg.dll, 7/19/2019 07:14:56, 24784 bytes
+   Driver: C:\Windows\System32\DriverStore\FileRepository\iastorac.inf_amd64_6ca78a08b838e305\HfcDisableService.exe, 17.05.0002.1024 (English), 7/19/2019 07:14:54, 1883856 bytes
+
+     Name: Intel(R) Management Engine Interface #1
+Device ID: PCI\VEN_8086&DEV_A360&SUBSYS_84DB103C&REV_10\3&11583659&0&B0
+   Driver: C:\Windows\System32\DriverStore\FileRepository\heci.inf_amd64_a54e540558404ee5\x64\TeeDriverW10x64.sys, 2102.100.0000.1044 (English), 1/10/2021 23:47:06, 310656 bytes
+
+     Name: Intel(R) Host Bridge/DRAM Registers - 3EC4
+Device ID: PCI\VEN_8086&DEV_3EC4&SUBSYS_84DB103C&REV_07\3&11583659&0&00
+   Driver: n/a
+
+     Name: PCI Express ÏÂÓÎ½»»»»ú¶Ë¿Ú
+Device ID: PCI\VEN_8086&DEV_15DA&SUBSYS_84DB00F0&REV_02\0EDEDD19B3B7D00010
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.22000.0653 (Chinese (Simplified)), 5/11/2022 11:38:02, 537952 bytes
+
+     Name: PCI Express ÏÂÓÎ½»»»»ú¶Ë¿Ú
+Device ID: PCI\VEN_8086&DEV_15DA&SUBSYS_84DB00F0&REV_02\0EDEDD19B3B7D00008
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.22000.0653 (Chinese (Simplified)), 5/11/2022 11:38:02, 537952 bytes
+
+     Name: PCI Express ÏÂÓÎ½»»»»ú¶Ë¿Ú
+Device ID: PCI\VEN_8086&DEV_15DA&SUBSYS_84DB00F0&REV_02\0EDEDD19B3B7D00000
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.22000.0653 (Chinese (Simplified)), 5/11/2022 11:38:02, 537952 bytes
+
+     Name: High Definition Audio ¿ØÖÆÆ÷
+Device ID: PCI\VEN_10DE&DEV_10F1&SUBSYS_00000000&REV_A1\4&9AA7CD8&0&0108
+   Driver: C:\Windows\system32\DRIVERS\hdaudbus.sys, 10.00.22000.0001 (English), 6/5/2021 20:04:43, 180224 bytes
+   Driver: C:\Windows\system32\DRIVERS\drmk.sys, 10.00.22000.0653 (English), 5/11/2022 11:38:01, 135168 bytes
+   Driver: C:\Windows\system32\DRIVERS\portcls.sys, 10.00.22000.0653 (English), 5/11/2022 11:38:01, 462848 bytes
+
+     Name: Intel(R) PCI Express Root Port #21 - A32C
+Device ID: PCI\VEN_8086&DEV_A32C&SUBSYS_84DB103C&REV_F0\3&11583659&0&D8
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.22000.0653 (Chinese (Simplified)), 5/11/2022 11:38:02, 537952 bytes
+
+     Name: Intel(R) SPI (flash) Controller - A324
+Device ID: PCI\VEN_8086&DEV_A324&SUBSYS_84DB103C&REV_10\3&11583659&0&FD
+   Driver: n/a
+
+     Name: PCI ±ê×¼ RAM ¿ØÖÆÆ÷
+Device ID: PCI\VEN_8086&DEV_A36F&SUBSYS_84DB103C&REV_10\3&11583659&0&A2
+   Driver: n/a
+
+     Name: Intel(R) PCI Express Root Port #16 - A337
+Device ID: PCI\VEN_8086&DEV_A337&SUBSYS_84DB103C&REV_F0\3&11583659&0&EF
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.22000.0653 (Chinese (Simplified)), 5/11/2022 11:38:02, 537952 bytes
+
+     Name: Intel(R) USB 3.1 ¿ÉÀ©Õ¹Ö÷»ú¿ØÖÆÆ÷ - 1.10 (Microsoft)
+Device ID: PCI\VEN_8086&DEV_15DB&SUBSYS_84DB00F0&REV_02\0EDEDD19B3B7D00000
+   Driver: C:\Windows\system32\DRIVERS\USBXHCI.SYS, 10.00.22000.0469 (Chinese (Simplified)), 2/9/2022 12:24:41, 656744 bytes
+   Driver: C:\Windows\system32\DRIVERS\UMDF\UsbXhciCompanion.dll, 10.00.22000.0469 (English), 2/9/2022 12:24:41, 161512 bytes
+
+     Name: Intel(R) Wireless-AC 9560 160MHz
+Device ID: PCI\VEN_8086&DEV_A370&SUBSYS_00348086&REV_10\3&11583659&0&A3
+   Driver: C:\Windows\system32\DRIVERS\Netwtw08.sys, 21.80.0008.0001 (English), 7/8/2020 23:29:26, 8815968 bytes
+   Driver: C:\Windows\system32\DRIVERS\Netwfw08.dat, 7/8/2020 22:55:56, 2615844 bytes
+   Driver: C:\Windows\system32\IntelIHVRouter08.dll, 99.00.0054.0001 (English), 7/8/2020 23:29:24, 1067872 bytes
+
+     Name: Intel(R) USB 3.1 ¿ÉÀ©Õ¹Ö÷»ú¿ØÖÆÆ÷ - 1.10 (Microsoft)
+Device ID: PCI\VEN_8086&DEV_A36D&SUBSYS_84DB103C&REV_10\3&11583659&0&A0
+   Driver: C:\Windows\system32\DRIVERS\USBXHCI.SYS, 10.00.22000.0469 (Chinese (Simplified)), 2/9/2022 12:24:41, 656744 bytes
+   Driver: C:\Windows\system32\DRIVERS\UMDF\UsbXhciCompanion.dll, 10.00.22000.0469 (English), 2/9/2022 12:24:41, 161512 bytes
+
+     Name: Realtek Gaming GbE Family Controller
+Device ID: PCI\VEN_10EC&DEV_8168&SUBSYS_84DB103C&REV_16\4&248C97AF&0&00ED
+   Driver: C:\Windows\system32\DRIVERS\rt640x64.sys, 10.28.0615.2018 (Chinese (Simplified)), 8/28/2018 02:30:30, 1138000 bytes
+
+     Name: PCI Êý¾Ý²¶»ñºÍÐÅºÅ´¦Àí¿ØÖÆÆ÷
+Device ID: PCI\VEN_8086&DEV_1903&SUBSYS_84DB103C&REV_07\3&11583659&0&20
+   Driver: n/a
+
+     Name: Intel(R) PCI Express Root Port #14 - A335
+Device ID: PCI\VEN_8086&DEV_A335&SUBSYS_84DB103C&REV_F0\3&11583659&0&ED
+   Driver: C:\Windows\system32\DRIVERS\pci.sys, 10.00.22000.0653 (Chinese (Simplified)), 5/11/2022 11:38:02, 537952 bytes
+
+------------------
+DirectShow Filters
+------------------
+
+DirectShow Filters:
+WMAudio Decoder DMO,0x00800800,1,1,WMADMOD.DLL,10.00.22000.0120
+WMAPro over S/PDIF DMO,0x00600800,1,1,WMADMOD.DLL,10.00.22000.0120
+WMSpeech Decoder DMO,0x00600800,1,1,WMSPDMOD.DLL,10.00.22000.0653
+MP3 Decoder DMO,0x00600800,1,1,mp3dmod.dll,10.00.22000.0001
+Mpeg4s Decoder DMO,0x00800001,1,1,mp4sdecd.dll,10.00.22000.0001
+WMV Screen decoder DMO,0x00600800,1,1,wmvsdecd.dll,10.00.22000.0653
+WMVideo Decoder DMO,0x00800001,1,1,wmvdecod.dll,10.00.22000.0120
+Mpeg43 Decoder DMO,0x00800001,1,1,mp43decd.dll,10.00.22000.0653
+Mpeg4 Decoder DMO,0x00800001,1,1,mpg4decd.dll,10.00.22000.0653
+DV Muxer,0x00400000,0,0,qdv.dll,10.00.22000.0653
+Color Space Converter,0x00400001,1,1,quartz.dll,10.00.22000.0001
+WM ASF Reader,0x00400000,0,0,qasf.dll,12.00.22000.0653
+AVI Splitter,0x00600000,1,1,quartz.dll,10.00.22000.0001
+VGA 16 Color Ditherer,0x00400000,1,1,quartz.dll,10.00.22000.0001
+SBE2MediaTypeProfile,0x00200000,0,0,sbe.dll,10.00.22000.0653
+Microsoft DTV-DVD Video Decoder,0x005fffff,2,4,msmpeg2vdec.dll,10.00.22000.0675
+AC3 Parser Filter,0x00600000,1,1,mpg2splt.ax,10.00.22000.0653
+StreamBufferSink,0x00200000,0,0,sbe.dll,10.00.22000.0653
+MJPEG Decompressor,0x00600000,1,1,quartz.dll,10.00.22000.0001
+MPEG-I Stream Splitter,0x00600000,1,2,quartz.dll,10.00.22000.0001
+SAMI (CC) Parser,0x00400000,1,1,quartz.dll,10.00.22000.0001
+VBI Codec,0x00600000,1,4,VBICodec.ax,10.00.22000.0653
+MPEG-2 Splitter,0x005fffff,1,0,mpg2splt.ax,10.00.22000.0653
+Closed Captions Analysis Filter,0x00200000,2,5,cca.dll,10.00.22000.0653
+SBE2FileScan,0x00200000,0,0,sbe.dll,10.00.22000.0653
+Microsoft MPEG-2 Video Encoder,0x00200000,1,1,msmpeg2enc.dll,10.00.22000.0653
+Internal Script Command Renderer,0x00800001,1,0,quartz.dll,10.00.22000.0001
+MPEG Audio Decoder,0x03680001,1,1,quartz.dll,10.00.22000.0001
+DV Splitter,0x00600000,1,2,qdv.dll,10.00.22000.0653
+Video Mixing Renderer 9,0x00200000,1,0,quartz.dll,10.00.22000.0001
+Microsoft MPEG-2 Encoder,0x00200000,2,1,msmpeg2enc.dll,10.00.22000.0653
+ACM Wrapper,0x00600000,1,1,quartz.dll,10.00.22000.0001
+Video Renderer,0x00800001,1,0,quartz.dll,10.00.22000.0001
+MPEG-2 Video Stream Analyzer,0x00200000,0,0,sbe.dll,10.00.22000.0653
+Line 21 Decoder,0x00600000,1,1,,
+Video Port Manager,0x00600000,2,1,quartz.dll,10.00.22000.0001
+Video Renderer,0x00400000,1,0,quartz.dll,10.00.22000.0001
+VPS Decoder,0x00200000,0,0,WSTPager.ax,10.00.22000.0653
+WM ASF Writer,0x00400000,0,0,qasf.dll,12.00.22000.0653
+VBI Surface Allocator,0x00600000,1,1,vbisurf.ax,10.00.22000.0653
+File writer,0x00200000,1,0,qcap.dll,10.00.22000.0653
+DVD Navigator,0x00200000,0,3,qdvd.dll,10.00.22000.0653
+Overlay Mixer2,0x00200000,1,1,,
+AVI Draw,0x00600064,9,1,quartz.dll,10.00.22000.0001
+Microsoft MPEG-2 Audio Encoder,0x00200000,1,1,msmpeg2enc.dll,10.00.22000.0653
+WST Pager,0x00200000,1,1,WSTPager.ax,10.00.22000.0653
+MPEG-2 Demultiplexer,0x00600000,1,1,mpg2splt.ax,10.00.22000.0653
+DV Video Decoder,0x00800000,1,1,qdv.dll,10.00.22000.0653
+SampleGrabber,0x00200000,1,1,qedit.dll,10.00.22000.0653
+Null Renderer,0x00200000,1,0,qedit.dll,10.00.22000.0653
+MPEG-2 Sections and Tables,0x005fffff,1,0,Mpeg2Data.ax,10.00.22000.0653
+Microsoft AC3 Encoder,0x00200000,1,1,msac3enc.dll,10.00.22000.0653
+StreamBufferSource,0x00200000,0,0,sbe.dll,10.00.22000.0653
+Smart Tee,0x00200000,1,2,qcap.dll,10.00.22000.0653
+Overlay Mixer,0x00200000,0,0,,
+AVI Decompressor,0x00600000,1,1,quartz.dll,10.00.22000.0001
+AVI/WAV File Source,0x00400000,0,2,quartz.dll,10.00.22000.0001
+Wave Parser,0x00400000,1,1,quartz.dll,10.00.22000.0001
+MIDI Parser,0x00400000,1,1,quartz.dll,10.00.22000.0001
+Multi-file Parser,0x00400000,1,1,quartz.dll,10.00.22000.0001
+File stream renderer,0x00400000,1,1,quartz.dll,10.00.22000.0001
+Microsoft DTV-DVD Audio Decoder,0x005fffff,1,1,msmpeg2adec.dll,10.00.22000.0653
+StreamBufferSink2,0x00200000,0,0,sbe.dll,10.00.22000.0653
+AVI Mux,0x00200000,1,0,qcap.dll,10.00.22000.0653
+Line 21 Decoder 2,0x00600002,1,1,quartz.dll,10.00.22000.0001
+File Source (Async.),0x00400000,0,1,quartz.dll,10.00.22000.0001
+File Source (URL),0x00400000,0,1,quartz.dll,10.00.22000.0001
+Infinite Pin Tee Filter,0x00200000,1,1,qcap.dll,10.00.22000.0653
+Enhanced Video Renderer,0x00200000,1,0,evr.dll,10.00.22000.0001
+BDA MPEG2 Transport Information Filter,0x00200000,2,0,psisrndr.ax,10.00.22000.0653
+MPEG Video Decoder,0x40000001,1,1,quartz.dll,10.00.22000.0001
+
+WDM Streaming Tee/Splitter Devices:
+Tee/Sink-to-Sink ×ª»»³ÌÐò,0x00200000,1,1,ksproxy.ax,10.00.22000.0469
+
+Video Compressors:
+WMVideo8 Encoder DMO,0x00600800,1,1,wmvxencd.dll,10.00.22000.0653
+WMVideo9 Encoder DMO,0x00600800,1,1,wmvencod.dll,10.00.22000.0653
+MSScreen 9 encoder DMO,0x00600800,1,1,wmvsencd.dll,10.00.22000.0653
+DV Video Encoder,0x00200000,0,0,qdv.dll,10.00.22000.0653
+MJPEG Compressor,0x00200000,0,0,quartz.dll,10.00.22000.0001
+
+Audio Compressors:
+WM Speech Encoder DMO,0x00600800,1,1,WMSPDMOE.DLL,10.00.22000.0653
+WMAudio Encoder DMO,0x00600800,1,1,WMADMOE.DLL,10.00.22000.0001
+IMA ADPCM,0x00200000,1,1,quartz.dll,10.00.22000.0001
+PCM,0x00200000,1,1,quartz.dll,10.00.22000.0001
+Microsoft ADPCM,0x00200000,1,1,quartz.dll,10.00.22000.0001
+GSM 6.10,0x00200000,1,1,quartz.dll,10.00.22000.0001
+CCITT A-Law,0x00200000,1,1,quartz.dll,10.00.22000.0001
+CCITT u-Law,0x00200000,1,1,quartz.dll,10.00.22000.0001
+MPEG Layer-3,0x00200000,1,1,quartz.dll,10.00.22000.0001
+
+PBDA CP Filters:
+PBDA DTFilter,0x00600000,1,1,CPFilters.dll,10.00.22000.0653
+PBDA ETFilter,0x00200000,0,0,CPFilters.dll,10.00.22000.0653
+PBDA PTFilter,0x00200000,0,0,CPFilters.dll,10.00.22000.0653
+
+Midi Renderers:
+Default MidiOut Device,0x00800000,1,0,quartz.dll,10.00.22000.0001
+Microsoft GS Wavetable Synth,0x00200000,1,0,quartz.dll,10.00.22000.0001
+
+WDM Streaming Capture Devices:
+Realtek HD Audio Mic input,0x00200000,1,1,ksproxy.ax,10.00.22000.0469
+Realtek HD Audio Stereo input,0x00200000,1,1,ksproxy.ax,10.00.22000.0469
+,0x00000000,0,0,,
+,0x00000000,0,0,,
+HP Wide Vision HD Camera,0x00200000,1,1,ksproxy.ax,10.00.22000.0469
+
+WDM Streaming Rendering Devices:
+,0x00200000,1,1,,
+Realtek HD Audio output,0x00200000,1,1,ksproxy.ax,10.00.22000.0469
+,0x00000000,0,0,,
+,0x00000000,0,0,,
+
+BDA Network Providers:
+Microsoft ATSC Network Provider,0x00200000,0,1,MSDvbNP.ax,10.00.22000.0653
+Microsoft DVBC Network Provider,0x00200000,0,1,MSDvbNP.ax,10.00.22000.0653
+Microsoft DVBS Network Provider,0x00200000,0,1,MSDvbNP.ax,10.00.22000.0653
+Microsoft DVBT Network Provider,0x00200000,0,1,MSDvbNP.ax,10.00.22000.0653
+Microsoft Network Provider,0x00200000,0,1,MSNP.ax,10.00.22000.0653
+
+Video Capture Sources:
+HP Wide Vision HD Camera,0x00200000,1,1,ksproxy.ax,10.00.22000.0469
+
+Multi-Instance Capable VBI Codecs:
+VBI Codec,0x00600000,1,4,VBICodec.ax,10.00.22000.0653
+
+BDA Transport Information Renderers:
+BDA MPEG2 Transport Information Filter,0x00600000,2,0,psisrndr.ax,10.00.22000.0653
+MPEG-2 Sections and Tables,0x00600000,1,0,Mpeg2Data.ax,10.00.22000.0653
+
+WDM Streaming Communication Transforms:
+Tee/Sink-to-Sink ×ª»»³ÌÐò,0x00200000,1,1,ksproxy.ax,10.00.22000.0469
+
+Audio Renderers:
+Speaker / Headphone (Realtek(R) Audio),0x00200000,1,0,quartz.dll,10.00.22000.0001
+Default DirectSound Device,0x00800000,1,0,quartz.dll,10.00.22000.0001
+Default WaveOut Device,0x00200000,1,0,quartz.dll,10.00.22000.0001
+DirectSound: Speaker / Headphone (Realtek(R) Audio),0x00200000,1,0,quartz.dll,10.00.22000.0001
+
+
+----------------------------
+Preferred DirectShow Filters
+----------------------------
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\DirectShow\Preferred]
+
+<media subtype GUID>, [<filter friendly name>, ]<filter CLSID>
+
+MEDIASUBTYPE_DVD_LPCM_AUDIO, Microsoft DTV-DVD Audio Decoder, CLSID_CMPEG2AudDecoderDS
+MEDIASUBTYPE_MPEG2_AUDIO, Microsoft DTV-DVD Audio Decoder, CLSID_CMPEG2AudDecoderDS
+MEDIASUBTYPE_MPEG2_VIDEO, Microsoft DTV-DVD Video Decoder, CLSID_CMPEG2VidDecoderDS
+{78766964-0000-0010-8000-00AA00389B71}, Mpeg4s Decoder DMO, CLSID_CMpeg4sDecMediaObject
+{7634706D-0000-0010-8000-00AA00389B71}, Mpeg4s Decoder DMO, CLSID_CMpeg4sDecMediaObject
+MEDIASUBTYPE_mp4s, Mpeg4s Decoder DMO, CLSID_CMpeg4sDecMediaObject
+{64697678-0000-0010-8000-00AA00389B71}, Mpeg4s Decoder DMO, CLSID_CMpeg4sDecMediaObject
+{58564944-0000-0010-8000-00AA00389B71}, Mpeg4s Decoder DMO, CLSID_CMpeg4sDecMediaObject
+{5634504D-0000-0010-8000-00AA00389B71}, Mpeg4s Decoder DMO, CLSID_CMpeg4sDecMediaObject
+MEDIASUBTYPE_MP4S, Mpeg4s Decoder DMO, CLSID_CMpeg4sDecMediaObject
+MEDIASUBTYPE_WMVR, WMVideo Decoder DMO, CLSID_CWMVDecMediaObject
+MEDIASUBTYPE_WMVP, WMVideo Decoder DMO, CLSID_CWMVDecMediaObject
+{44495658-0000-0010-8000-00AA00389B71}, Mpeg4s Decoder DMO, CLSID_CMpeg4sDecMediaObject
+MEDIASUBTYPE_WMVA, WMVideo Decoder DMO, CLSID_CWMVDecMediaObject
+MEDIASUBTYPE_mpg4, Mpeg4 Decoder DMO, CLSID_CMpeg4DecMediaObject
+MEDIASUBTYPE_MPG4, Mpeg4 Decoder DMO, CLSID_CMpeg4DecMediaObject
+MEDIASUBTYPE_h264, Microsoft DTV-DVD Video Decoder, CLSID_CMPEG2VidDecoderDS
+MEDIASUBTYPE_H264, Microsoft DTV-DVD Video Decoder, CLSID_CMPEG2VidDecoderDS
+MEDIASUBTYPE_WMV3, WMVideo Decoder DMO, CLSID_CWMVDecMediaObject
+MEDIASUBTYPE_mp43, Mpeg43 Decoder DMO, CLSID_CMpeg43DecMediaObject
+MEDIASUBTYPE_MP43, Mpeg43 Decoder DMO, CLSID_CMpeg43DecMediaObject
+MEDIASUBTYPE_m4s2, Mpeg4s Decoder DMO, CLSID_CMpeg4sDecMediaObject
+MEDIASUBTYPE_WMV2, WMVideo Decoder DMO, CLSID_CWMVDecMediaObject
+MEDIASUBTYPE_MSS2, WMV Screen decoder DMO, CLSID_CMSSCDecMediaObject
+MEDIASUBTYPE_M4S2, Mpeg4s Decoder DMO, CLSID_CMpeg4sDecMediaObject
+MEDIASUBTYPE_WVP2, WMVideo Decoder DMO, CLSID_CWMVDecMediaObject
+MEDIASUBTYPE_mp42, Mpeg4 Decoder DMO, CLSID_CMpeg4DecMediaObject
+MEDIASUBTYPE_MP42, Mpeg4 Decoder DMO, CLSID_CMpeg4DecMediaObject
+MEDIASUBTYPE_WMV1, WMVideo Decoder DMO, CLSID_CWMVDecMediaObject
+MEDIASUBTYPE_MSS1, WMV Screen decoder DMO, CLSID_CMSSCDecMediaObject
+MEDIASUBTYPE_WVC1, WMVideo Decoder DMO, CLSID_CWMVDecMediaObject
+MEDIASUBTYPE_AVC1, Microsoft DTV-DVD Video Decoder, CLSID_CMPEG2VidDecoderDS
+MEDIASUBTYPE_MPEG_LOAS, Microsoft DTV-DVD Audio Decoder, CLSID_CMPEG2AudDecoderDS
+MEDIASUBTYPE_MPEG_ADTS_AAC, Microsoft DTV-DVD Audio Decoder, CLSID_CMPEG2AudDecoderDS
+MEDIASUBTYPE_WMAUDIO_LOSSLESS, WMAudio Decoder DMO, CLSID_CWMADecMediaObject
+MEDIASUBTYPE_WMAUDIO3, WMAudio Decoder DMO, CLSID_CWMADecMediaObject
+WMMEDIASUBTYPE_WMAudioV8, WMAudio Decoder DMO, CLSID_CWMADecMediaObject
+MEDIASUBTYPE_MSAUDIO1, WMAudio Decoder DMO, CLSID_CWMADecMediaObject
+MEDIASUBTYPE_RAW_AAC1, Microsoft DTV-DVD Audio Decoder, CLSID_CMPEG2AudDecoderDS
+WMMEDIASUBTYPE_MP3, MP3 Decoder DMO, CLSID_CMP3DecMediaObject
+MEDIASUBTYPE_MPEG1Payload, MPEG Video Decoder, CLSID_CMpegVideoCodec
+MEDIASUBTYPE_MPEG1Packet, MPEG Video Decoder, CLSID_CMpegVideoCodec
+{6C737664-0000-0010-8000-00AA00389B71}, DV Video Decoder, CLSID_DVVideoCodec
+{64737664-0000-0010-8000-00AA00389B71}, DV Video Decoder, CLSID_DVVideoCodec
+{64687664-0000-0010-8000-00AA00389B71}, DV Video Decoder, CLSID_DVVideoCodec
+MEDIASUBTYPE_MJPG, MJPEG Decompressor, CLSID_MjpegDec
+{20637664-0000-0010-8000-00AA00389B71}, DV Video Decoder, CLSID_DVVideoCodec
+MEDIASUBTYPE_MPEG1AudioPayload, MPEG Audio Decoder, CLSID_CMpegAudioCodec
+WMMEDIASUBTYPE_WMSP2, WMSpeech Decoder DMO, CLSID_CWMSPDecMediaObject
+WMMEDIASUBTYPE_WMSP1, WMSpeech Decoder DMO, CLSID_CWMSPDecMediaObject
+
+
+---------------------------
+Media Foundation File Versions
+---------------------------
+
+  mfcore.dll, 10.00.22000.0675
+  mfreadwrite.dll, 10.00.22000.0001
+  mfcaptureengine.dll, 10.00.22000.0653
+  mfsensorgroup.dll, 10.00.22000.0653
+  windows.media.dll, 10.00.22000.0653
+  frameserver.dll, 10.00.22000.0653
+  frameserverclient.dll, 10.00.22000.0653
+
+
+---------------------------
+Media Foundation Transforms
+---------------------------
+
+[HKEY_LOCAL_MACHINE\Software\Classes\MediaFoundation\Transforms]
+
+<category>:
+  <transform friendly name>, <transform CLSID>, <flags>, [<merit>, ]<file name>, <file version>
+
+Video Decoders:
+  NVIDIA MJPEG Video Decoder MFT, {70F36578-2741-454F-B494-E8563DDD1CB4}, 0x4, 8, nvDecMFTMjpegx.dll, 30.00.0015.1179
+  Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 10.00.22000.0675
+  DV Decoder MFT, {404A6DE5-D4D6-4260-9BC7-5A6CBD882432}, 0x1, mfdvdec.dll, 10.00.22000.0653
+  Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT, 0x1, mp4sdecd.dll, 10.00.22000.0001
+  Microsoft H264 Video Decoder MFT, CLSID_CMSH264DecoderMFT, 0x1, msmpeg2vdec.dll, 10.00.22000.0675
+  WMV Screen decoder MFT, CLSID_CMSSCDecMediaObject, 0x1, wmvsdecd.dll, 10.00.22000.0653
+  WMVideo Decoder MFT, CLSID_CWMVDecMediaObject, 0x1, wmvdecod.dll, 10.00.22000.0120
+  MJPEG Decoder MFT, {CB17E772-E1CC-4633-8450-5617AF577905}, 0x1, mfmjpegdec.dll, 10.00.22000.0653
+  Mpeg43 Decoder MFT, CLSID_CMpeg43DecMediaObject, 0x1, mp43decd.dll, 10.00.22000.0653
+  Mpeg4 Decoder MFT, CLSID_CMpeg4DecMediaObject, 0x1, mpg4decd.dll, 10.00.22000.0653
+  WebpImageExtension
+  HEIFImageExtension
+  VP9VideoExtensionDecoder
+Video Encoders:
+  NVIDIA H.264 Encoder MFT, {60F44560-5A20-4857-BFEF-D29773CB8040}, 0x4, 8, nvEncMFTH264x.dll, 30.00.0015.1179
+  NVIDIA HEVC Encoder MFT, {966F107C-8EA2-425D-B822-E4A71BEF01D7}, 0x4, 8, nvEncMFThevcx.dll, 30.00.0015.1179
+  H264 Encoder MFT, {6CA50344-051A-4DED-9779-A43305165E35}, 0x1, mfh264enc.dll, 10.00.22000.0348
+  WMVideo8 Encoder MFT, CLSID_CWMVXEncMediaObject, 0x1, wmvxencd.dll, 10.00.22000.0653
+  H263 Encoder MFT, {BC47FCFE-98A0-4F27-BB07-698AF24F2B38}, 0x1, mfh263enc.dll, 10.00.22000.0653
+  WMVideo9 Encoder MFT, CLSID_CWMV9EncMediaObject, 0x1, wmvencod.dll, 10.00.22000.0653
+  Microsoft MPEG-2 Video Encoder MFT, {E6335F02-80B7-4DC4-ADFA-DFE7210D20D5}, 0x2, msmpeg2enc.dll, 10.00.22000.0653
+  HEIFImageExtension
+  VP9VideoExtensionEncoder
+Video Effects:
+  Frame Rate Converter, CLSID_CFrameRateConvertDmo, 0x1, mfvdsp.dll, 10.00.22000.0653
+  Resizer MFT, CLSID_CResizerDMO, 0x1, vidreszr.dll, 10.00.22000.0653
+  VideoStabilization MFT, {51571744-7FE4-4FF2-A498-2DC34FF74F1B}, 0x1, MSVideoDSP.dll, 10.00.22000.0653
+  Color Control, CLSID_CColorControlDmo, 0x1, mfvdsp.dll, 10.00.22000.0653
+  Color Converter MFT, CLSID_CColorConvertDMO, 0x1, colorcnv.dll, 10.00.22000.0071
+Video Processor:
+  Microsoft Video Processor MFT, {88753B26-5B24-49BD-B2E7-0C445C78C982}, 0x1, msvproc.dll, 10.00.22000.0593
+Audio Decoders:
+  Microsoft Dolby Digital Plus Decoder MFT, {177C0AFE-900B-48D4-9E4C-57ADD250B3D4}, 0x1, DolbyDecMFT.dll, 10.00.22000.0653
+  MS AMRNB Decoder MFT, {265011AE-5481-4F77-A295-ABB6FFE8D63E}, 0x1, MSAMRNBDecoder.dll, 10.00.22000.0653
+  WMAudio Decoder MFT, CLSID_CWMADecMediaObject, 0x1, WMADMOD.DLL, 10.00.22000.0120
+  Microsoft AAC Audio Decoder MFT, CLSID_CMSAACDecMFT, 0x1, MSAudDecMFT.dll, 10.00.22000.0675
+  A-law Wrapper MFT, {36CB6E0C-78C1-42B2-9943-846262F31786}, 0x1, mfcore.dll, 10.00.22000.0675
+  GSM ACM Wrapper MFT, {4A76B469-7B66-4DD4-BA2D-DDF244C766DC}, 0x1, mfcore.dll, 10.00.22000.0675
+  WMAPro over S/PDIF MFT, CLSID_CWMAudioSpdTxDMO, 0x1, WMADMOD.DLL, 10.00.22000.0120
+  Microsoft Opus Audio Decoder MFT, {63E17C10-2D43-4C42-8FE3-8D8B63E46A6A}, 0x1, MSOpusDecoder.dll, 10.00.22000.0653
+  Microsoft FLAC Audio Decoder MFT, {6B0B3E6B-A2C5-4514-8055-AFE8A95242D9}, 0x1, MSFlacDecoder.dll, 10.00.22000.0653
+  Microsoft MPEG Audio Decoder MFT, {70707B39-B2CA-4015-ABEA-F8447D22D88B}, 0x1, MSAudDecMFT.dll, 10.00.22000.0675
+  WMSpeech Decoder DMO, CLSID_CWMSPDecMediaObject, 0x1, WMSPDMOD.DLL, 10.00.22000.0653
+  G711 Wrapper MFT, {92B66080-5E2D-449E-90C4-C41F268E5514}, 0x1, mfcore.dll, 10.00.22000.0675
+  IMA ADPCM ACM Wrapper MFT, {A16E1BFF-A80D-48AD-AECD-A35C005685FE}, 0x1, mfcore.dll, 10.00.22000.0675
+  MP3 Decoder MFT, CLSID_CMP3DecMediaObject, 0x1, mp3dmod.dll, 10.00.22000.0001
+  Microsoft ALAC Audio Decoder MFT, {C0CD7D12-31FC-4BBC-B363-7322EE3E1879}, 0x1, MSAlacDecoder.dll, 10.00.22000.0653
+  ADPCM ACM Wrapper MFT, {CA34FE0A-5722-43AD-AF23-05F7650257DD}, 0x1, mfcore.dll, 10.00.22000.0675
+  Dolby TrueHD IEC-61937 converter MFT, {CF5EEEDF-0E92-4B3B-A161-BD0FFE545E4B}, 0x1, mfaudiocnv.dll, 10.00.22000.0653
+  DTS IEC-61937 converter MFT, {D035E24C-C877-42D7-A795-2A8A339B472F}, 0x1, mfaudiocnv.dll, 10.00.22000.0653
+Audio Encoders:
+  LPCM DVD-Audio MFT, {068A8476-9229-4CC0-9D49-2FC699DCD30A}, 0x1, mfaudiocnv.dll, 10.00.22000.0653
+  MP3 Encoder ACM Wrapper MFT, {11103421-354C-4CCA-A7A3-1AFF9A5B6701}, 0x1, mfcore.dll, 10.00.22000.0675
+  Microsoft FLAC Audio Encoder MFT, {128509E9-C44E-45DC-95E9-C255B8F466A6}, 0x1, MSFlacEncoder.dll, 10.00.22000.0653
+  WM Speech Encoder DMO, CLSID_CWMSPEncMediaObject2, 0x1, WMSPDMOE.DLL, 10.00.22000.0653
+  MS AMRNB Encoder MFT, {2FAE8AFE-04A3-423A-A814-85DB454712B0}, 0x1, MSAMRNBEncoder.dll, 10.00.22000.0653
+  Microsoft MPEG-2 Audio Encoder MFT, {46A4DD5C-73F8-4304-94DF-308F760974F4}, 0x1, msmpeg2enc.dll, 10.00.22000.0653
+  WMAudio Encoder MFT, CLSID_CWMAEncMediaObject, 0x1, WMADMOE.DLL, 10.00.22000.0001
+  Microsoft AAC Audio Encoder MFT, {93AF0C51-2275-45D2-A35B-F2BA21CAED00}, 0x1, mfAACEnc.dll, 10.00.22000.0653
+  Microsoft ALAC Audio Encoder MFT, {9AB6A28C-748E-4B6A-BFFF-CC443B8E8FB4}, 0x1, MSAlacEncoder.dll, 10.00.22000.0653
+  Microsoft Dolby Digital Encoder MFT, {AC3315C9-F481-45D7-826C-0B406C1F64B8}, 0x1, msac3enc.dll, 10.00.22000.0653
+Audio Effects:
+  AEC, CLSID_CWMAudioAEC, 0x1, mfwmaaec.dll, 10.00.22000.0653
+  Resampler MFT, CLSID_CResamplerMediaObject, 0x1, resampledmo.dll, 10.00.22000.0001
+Multiplexers:
+  Microsoft MPEG2 Multiplexer MFT, {AB300F71-01AB-46D2-AB6C-64906CB03258}, 0x2, mfmpeg2srcsnk.dll, 10.00.22000.0675
+Others:
+  Microsoft H264 Video Remux (MPEG2TSToMP4) MFT, {05A47EBB-8BF0-4CBF-AD2F-3B71D75866F5}, 0x1, msmpeg2vdec.dll, 10.00.22000.0675
+
+
+--------------------------------------------
+Media Foundation Enabled Hardware Categories
+--------------------------------------------
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Media Foundation\HardwareMFT]
+
+EnableDecoders = 1
+EnableEncoders = 1
+
+
+-------------------------------------
+Media Foundation Byte Stream Handlers
+-------------------------------------
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Media Foundation\ByteStreamHandlers]
+[HKEY_LOCAL_MACHINE\Software\Classes\MediaFoundation\MediaSources\Preferred]
+
+<file ext. or MIME type>, <handler CLSID>, <brief description>[, Preferred]
+
+.3g2, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
+.3gp, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
+.3gp2, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
+.3gpp, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
+.aac, {926F41F7-003E-4382-9E84-9E953BE10562}, ADTS Byte Stream Handler, Preferred
+.ac3, {46031BA1-083F-47D9-8369-23C92BDAB2FF}, AC-3 Byte Stream Handler, Preferred
+.adt, {926F41F7-003E-4382-9E84-9E953BE10562}, ADTS Byte Stream Handler, Preferred
+.adts, {926F41F7-003E-4382-9E84-9E953BE10562}, ADTS Byte Stream Handler, Preferred
+.am?, {EFE6208A-0A2C-49FA-8A01-3768B559B6DA}, MF AMRNB Media Source ByteStreamHandler
+.amr, {EFE6208A-0A2C-49FA-8A01-3768B559B6DA}, MF AMRNB Media Source ByteStreamHandler, Preferred
+.asf, {41457294-644C-4298-A28A-BD69F2C0CF3B}, ASF Byte Stream Handler, Preferred
+.avi, {7AFA253E-F823-42F6-A5D9-714BDE467412}, AVI Byte Stream Handler, Preferred
+.dvr-ms, {A8721937-E2FB-4D7A-A9EE-4EB08C890B6E}, MF SBE Source ByteStreamHandler
+.dvr-ms, {65964407-A5D8-4060-85B0-1CCD63F768E2}, dvr-ms Byte Stream Handler, Preferred
+.ec3, {46031BA1-083F-47D9-8369-23C92BDAB2FF}, AC-3 Byte Stream Handler, Preferred
+.flac, {0E41CFB8-0506-40F4-A516-77CC23642D91}, MF FLAC Media Source ByteStreamHandler, Preferred
+.m2t, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred
+.m2ts, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred
+.m4a, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
+.m4v, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
+.mk3d, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, MKV Byte Stream Handler, Preferred
+.mka, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, MKV Byte Stream Handler, Preferred
+.mks, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, MKV Byte Stream Handler, Preferred
+.mkv, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, MKV Byte Stream Handler, Preferred
+.mod, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred
+.mov, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
+.mp2v, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred
+.mp3, {A82E50BA-8E92-41EB-9DF2-433F50EC2993}, MP3 Byte Stream Handler, Preferred
+.mp4, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
+.mp4v, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
+.mpa, {A82E50BA-8E92-41EB-9DF2-433F50EC2993}, MP3 Byte Stream Handler, Preferred
+.mpeg, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred
+.mpg, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred
+.mts, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred
+.nsc, {B084785C-DDE0-4D30-8CA8-05A373E185BE}, NSC Byte Stream Handler, Preferred
+.sami, {7A56C4CB-D678-4188-85A8-BA2EF68FA10D}, SAMI Byte Stream Handler, Preferred
+.smi, {7A56C4CB-D678-4188-85A8-BA2EF68FA10D}, SAMI Byte Stream Handler, Preferred
+.tod, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred
+.ts, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred
+.tts, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred
+.uvu, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
+.vob, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred
+.wav, {42C9B9F5-16FC-47EF-AF22-DA05F7C842E3}, WAV Byte Stream Handler, Preferred
+.weba, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, WEBM Byte Stream Handler, Preferred
+.webm, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, WEBM Byte Stream Handler, Preferred
+.wm, {41457294-644C-4298-A28A-BD69F2C0CF3B}, ASF Byte Stream Handler, Preferred
+.wma, {41457294-644C-4298-A28A-BD69F2C0CF3B}, ASF Byte Stream Handler, Preferred
+.wmv, {41457294-644C-4298-A28A-BD69F2C0CF3B}, ASF Byte Stream Handler, Preferred
+.wtv, {65964407-A5D8-4060-85B0-1CCD63F768E2}, WTV Byte Stream Handler, Preferred
+audio/3gpp, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
+audio/3gpp2, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
+audio/aac, {926F41F7-003E-4382-9E84-9E953BE10562}, ADTS Byte Stream Handler, Preferred
+audio/aacp, {926F41F7-003E-4382-9E84-9E953BE10562}, ADTS Byte Stream Handler, Preferred
+audio/eac3, {46031BA1-083F-47D9-8369-23C92BDAB2FF}, AC-3 Byte Stream Handler, Preferred
+audio/flac, {0E41CFB8-0506-40F4-A516-77CC23642D91}, MF FLAC Media Source ByteStreamHandler, Preferred
+audio/L16, {3FFB3B8C-EB99-472B-8902-E1C1B05F07CF}, LPCM Byte Stream Handler, Preferred
+audio/mp3, {A82E50BA-8E92-41EB-9DF2-433F50EC2993}, MP3 Byte Stream Handler, Preferred
+audio/mp4, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
+audio/MP4A-LATM, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
+audio/mpa, {A82E50BA-8E92-41EB-9DF2-433F50EC2993}, MP3 Byte Stream Handler, Preferred
+audio/mpeg, {A82E50BA-8E92-41EB-9DF2-433F50EC2993}, MP3 Byte Stream Handler, Preferred
+audio/mpeg3, {A82E50BA-8E92-41EB-9DF2-433F50EC2993}, MP3 Byte Stream Handler, Preferred
+audio/vnd.dlna.adts, {926F41F7-003E-4382-9E84-9E953BE10562}, ADTS Byte Stream Handler, Preferred
+audio/vnd.dolby.dd-raw, {46031BA1-083F-47D9-8369-23C92BDAB2FF}, AC-3 Byte Stream Handler, Preferred
+audio/wav, {42C9B9F5-16FC-47EF-AF22-DA05F7C842E3}, WAV Byte Stream Handler, Preferred
+audio/webm, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, WEBM Byte Stream Handler, Preferred
+audio/x-aac, {926F41F7-003E-4382-9E84-9E953BE10562}, ADTS Byte Stream Handler, Preferred
+audio/x-flac, {0E41CFB8-0506-40F4-A516-77CC23642D91}, MF FLAC Media Source ByteStreamHandler, Preferred
+audio/x-m4a, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
+audio/x-matroska, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, MKV Byte Stream Handler, Preferred
+audio/x-mp3, {A82E50BA-8E92-41EB-9DF2-433F50EC2993}, MP3 Byte Stream Handler, Preferred
+audio/x-mpeg, {A82E50BA-8E92-41EB-9DF2-433F50EC2993}, MP3 Byte Stream Handler, Preferred
+audio/x-ms-wma, {41457294-644C-4298-A28A-BD69F2C0CF3B}, ASF Byte Stream Handler, Preferred
+audio/x-wav, {42C9B9F5-16FC-47EF-AF22-DA05F7C842E3}, WAV Byte Stream Handler, Preferred
+video/3gpp, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
+video/3gpp2, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
+video/avi, {7AFA253E-F823-42F6-A5D9-714BDE467412}, AVI Byte Stream Handler, Preferred
+video/mp4, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
+video/mpeg, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred
+video/msvideo, {7AFA253E-F823-42F6-A5D9-714BDE467412}, AVI Byte Stream Handler, Preferred
+video/vnd.dece.mp4, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
+video/vnd.dlna.mpeg-tts, {40871C59-AB40-471F-8DC3-1F259D862479}, MPEG2 Byte Stream Handler, Preferred
+video/webm, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, WEBM Byte Stream Handler, Preferred
+video/x-m4v, {271C3902-6095-4C45-A22F-20091816EE9E}, MPEG4 Byte Stream Handler, Preferred
+video/x-matroska, {1F9A2C18-D89E-463E-B4F4-BB90152ACC64}, MKV Byte Stream Handler, Preferred
+video/x-ms-asf, {41457294-644C-4298-A28A-BD69F2C0CF3B}, ASF Byte Stream Handler, Preferred
+video/x-ms-wm, {41457294-644C-4298-A28A-BD69F2C0CF3B}, ASF Byte Stream Handler, Preferred
+video/x-ms-wmv, {41457294-644C-4298-A28A-BD69F2C0CF3B}, ASF Byte Stream Handler, Preferred
+video/x-msvideo, {7AFA253E-F823-42F6-A5D9-714BDE467412}, AVI Byte Stream Handler, Preferred
+
+
+--------------------------------
+Media Foundation Scheme Handlers
+--------------------------------
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Media Foundation\SchemeHandlers]
+[HKEY_LOCAL_MACHINE\Software\Classes\MediaFoundation\MediaSources\Preferred]
+
+<URL type>, <handler CLSID>, <brief description>[, Preferred]
+
+file:, {477EC299-1421-4BDD-971F-7CCB933F21AD}, File Scheme Handler, Preferred
+http:, {44CB442B-9DA9-49DF-B3FD-023777B16E50}, Http Scheme Handler
+http:, {9EC4B4F9-3029-45AD-947B-344DE2A249E2}, Urlmon Scheme Handler
+http:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferred
+httpd:, {44CB442B-9DA9-49DF-B3FD-023777B16E50}, Http Scheme Handler, Preferred
+https:, {37A61C8B-7F8E-4D08-B12B-248D73E9AB4F}, Secure Http Scheme Handler, Preferred
+httpsd:, {37A61C8B-7F8E-4D08-B12B-248D73E9AB4F}, Secure Http Scheme Handler, Preferred
+httpt:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferred
+httpu:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferred
+mcast:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferred
+mcrecv:, {FA6D33D4-9405-4BA5-9983-12604AC8E77A}, Miracast Sink Scheme Handler, Preferred
+mms:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferred
+ms-appdata:, {CFC81939-3886-4ACF-9692-DA58037AE716}, MsAppData Scheme Handler, Preferred
+ms-appx-web:, {8DB0224B-3D65-4F6F-8E12-BEB4B78B8974}, MsAppxWeb Scheme Handler, Preferred
+ms-appx:, {8DB0224B-3D65-4F6F-8E12-BEB4B78B8974}, MsAppx Scheme Handler, Preferred
+ms-winsoundevent:, {F79A6BF9-7415-4CF3-AE10-4559509ABC3C}, Sound Event Scheme Handler, Preferred
+rtsp:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferred
+rtsps:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferred
+rtspt:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferred
+rtspu:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferred
+sdp:, {E9F4EBAB-D97B-463E-A2B1-C54EE3F9414D}, Net Scheme Handler, Preferred
+
+
+-------------------------------------
+Preferred Media Foundation Transforms
+-------------------------------------
+
+[HKEY_LOCAL_MACHINE\Software\Classes\MediaFoundation\Transforms\Preferred]
+
+<media subtype GUID>, [<transform friendly name>, ]<transform CLSID>
+
+{EB27CEC4-163E-4CA3-8B74-8E25F91B517E}, Dolby TrueHD IEC-61937 converter MFT, {CF5EEEDF-0E92-4B3B-A161-BD0FFE545E4B}
+{E06D8033-DB46-11CF-B4D1-00805F6CBBEA}, DTS IEC-61937 converter MFT, {D035E24C-C877-42D7-A795-2A8A339B472F}
+{E06D802C-DB46-11CF-B4D1-00805F6CBBEA}, Microsoft Dolby Digital Plus Decoder MFT, {177C0AFE-900B-48D4-9E4C-57ADD250B3D4}
+MFVideoFormat_MPEG2, Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}
+{C2FE6F0A-4E3C-4DF1-9B60-50863091E4B9}, DTS IEC-61937 converter MFT, {D035E24C-C877-42D7-A795-2A8A339B472F}
+MEDIASUBTYPE_DOLBY_DDPLUS, Microsoft Dolby Digital Plus Decoder MFT, {177C0AFE-900B-48D4-9E4C-57ADD250B3D4}
+{A61AC364-AD0E-4744-89FF-213CE0DF8804}, DTS IEC-61937 converter MFT, {D035E24C-C877-42D7-A795-2A8A339B472F}
+{A2E58EB7-0FA9-48BB-A40C-FA0E156D0645}, DTS IEC-61937 converter MFT, {D035E24C-C877-42D7-A795-2A8A339B472F}
+{7634706D-0000-0010-8000-00AA00389B71}, Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT
+{73616D72-767A-494D-B478-F29D25DC9037}, MS AMRNB Decoder MFT, {265011AE-5481-4F77-A295-ABB6FFE8D63E}
+MEDIASUBTYPE_mp4s, Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT
+MFVideoFormat_DVSL, DV Decoder MFT, {404A6DE5-D4D6-4260-9BC7-5A6CBD882432}
+MFVideoFormat_DVSD, DV Decoder MFT, {404A6DE5-D4D6-4260-9BC7-5A6CBD882432}
+MFVideoFormat_DVHD, DV Decoder MFT, {404A6DE5-D4D6-4260-9BC7-5A6CBD882432}
+{63616C61-0000-0010-8000-00AA00389B71}, Microsoft ALAC Audio Decoder MFT, {C0CD7D12-31FC-4BBC-B363-7322EE3E1879}
+MFVideoFormat_MP4V, Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT
+MFVideoFormat_MP4S, Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT
+{53314356-0000-0010-8000-00AA00389B71}, WMVideo Decoder MFT, CLSID_CWMVDecMediaObject
+MEDIASUBTYPE_WMVR, WMVideo Decoder MFT, CLSID_CWMVDecMediaObject
+MEDIASUBTYPE_WMVP, WMVideo Decoder MFT, CLSID_CWMVDecMediaObject
+MFVideoFormat_MJPG, MJPEG Decoder MFT, {CB17E772-E1CC-4633-8450-5617AF577905}
+MEDIASUBTYPE_WMVA, WMVideo Decoder MFT, CLSID_CWMVDecMediaObject
+{3F40F4F0-5622-4FF8-B6D8-A17A584BEE5E}, Microsoft H264 Video Decoder MFT, CLSID_CMSH264DecoderMFT
+MEDIASUBTYPE_mpg4, Mpeg4 Decoder MFT, CLSID_CMpeg4DecMediaObject
+MEDIASUBTYPE_MPG4, Mpeg4 Decoder MFT, CLSID_CMpeg4DecMediaObject
+MFVideoFormat_H264, Microsoft H264 Video Decoder MFT, CLSID_CMSH264DecoderMFT
+MFVideoFormat_WMV3, WMVideo Decoder MFT, CLSID_CWMVDecMediaObject
+{33363248-0000-0010-8000-00AA00389B71}, Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT
+MEDIASUBTYPE_mp43, Mpeg43 Decoder MFT, CLSID_CMpeg43DecMediaObject
+MFVideoFormat_MP43, Mpeg43 Decoder MFT, CLSID_CMpeg43DecMediaObject
+MEDIASUBTYPE_m4s2, Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT
+MFVideoFormat_WMV2, WMVideo Decoder MFT, CLSID_CWMVDecMediaObject
+MFVideoFormat_MSS2, WMV Screen decoder MFT, CLSID_CMSSCDecMediaObject
+MFVideoFormat_M4S2, Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT
+MEDIASUBTYPE_WVP2, WMVideo Decoder MFT, CLSID_CWMVDecMediaObject
+MEDIASUBTYPE_mp42, Mpeg4 Decoder MFT, CLSID_CMpeg4DecMediaObject
+MEDIASUBTYPE_MP42, Mpeg4 Decoder MFT, CLSID_CMpeg4DecMediaObject
+MFVideoFormat_WMV1, WMVideo Decoder MFT, CLSID_CWMVDecMediaObject
+MFVideoFormat_MSS1, WMV Screen decoder MFT, CLSID_CMSSCDecMediaObject
+MFVideoFormat_MPG1, Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}
+MFVideoFormat_WVC1, WMVideo Decoder MFT, CLSID_CWMVDecMediaObject
+MFVideoFormat_DVC, DV Decoder MFT, {404A6DE5-D4D6-4260-9BC7-5A6CBD882432}
+{0000F1AC-0000-0010-8000-00AA00389B71}, Microsoft FLAC Audio Decoder MFT, {6B0B3E6B-A2C5-4514-8055-AFE8A95242D9}
+{00007361-0000-0010-8000-00AA00389B71}, MS AMRNB Decoder MFT, {265011AE-5481-4F77-A295-ABB6FFE8D63E}
+{0000704F-0000-0010-8000-00AA00389B71}, Microsoft Opus Audio Decoder MFT, {63E17C10-2D43-4C42-8FE3-8D8B63E46A6A}
+{00006C61-0000-0010-8000-00AA00389B71}, Microsoft ALAC Audio Decoder MFT, {C0CD7D12-31FC-4BBC-B363-7322EE3E1879}
+{00002001-0000-0010-8000-00AA00389B71}, DTS IEC-61937 converter MFT, {D035E24C-C877-42D7-A795-2A8A339B472F}
+{00002000-0000-0010-8000-00AA00389B71}, Microsoft Dolby Digital Plus Decoder MFT, {177C0AFE-900B-48D4-9E4C-57ADD250B3D4}
+MFAudioFormat_AAC, Microsoft AAC Audio Decoder MFT, CLSID_CMSAACDecMFT
+MFAudioFormat_ADTS, Microsoft AAC Audio Decoder MFT, CLSID_CMSAACDecMFT
+MFAudioFormat_WMAudio_Lossless, WMAudio Decoder MFT, CLSID_CWMADecMediaObject
+MFAudioFormat_WMAudioV9, WMAudio Decoder MFT, CLSID_CWMADecMediaObject
+MFAudioFormat_WMAudioV8, WMAudio Decoder MFT, CLSID_CWMADecMediaObject
+MEDIASUBTYPE_MSAUDIO1, WMAudio Decoder MFT, CLSID_CWMADecMediaObject
+MEDIASUBTYPE_RAW_AAC1, Microsoft AAC Audio Decoder MFT, CLSID_CMSAACDecMFT
+MFAudioFormat_MP3, MP3 Decoder MFT, CLSID_CMP3DecMediaObject
+MFAudioFormat_MPEG, Microsoft MPEG Audio Decoder MFT, {70707B39-B2CA-4015-ABEA-F8447D22D88B}
+{00000031-0000-0010-8000-00AA00389B71}, GSM ACM Wrapper MFT, {4A76B469-7B66-4DD4-BA2D-DDF244C766DC}
+{00000011-0000-0010-8000-00AA00389B71}, IMA ADPCM ACM Wrapper MFT, {A16E1BFF-A80D-48AD-AECD-A35C005685FE}
+KSDATAFORMAT_SUBTYPE_MULAW, G711 Wrapper MFT, {92B66080-5E2D-449E-90C4-C41F268E5514}
+{00000006-0000-0010-8000-00AA00389B71}, A-law Wrapper MFT, {36CB6E0C-78C1-42B2-9943-846262F31786}
+KSDATAFORMAT_SUBTYPE_ADPCM, ADPCM ACM Wrapper MFT, {CA34FE0A-5722-43AD-AF23-05F7650257DD}
+WMMEDIASUBTYPE_WMSP2, WMSpeech Decoder DMO, CLSID_CWMSPDecMediaObject
+MFAudioFormat_MSP1, WMSpeech Decoder DMO, CLSID_CWMSPDecMediaObject
+
+
+-------------------------------------
+Disabled Media Foundation Transforms
+-------------------------------------
+
+[HKEY_LOCAL_MACHINE\Software\Classes\MediaFoundation\Transforms\DoNotUse]
+
+<transform CLSID>
+
+
+
+------------------------
+Disabled Media Sources
+------------------------
+
+[HKEY_LOCAL_MACHINE\Software\Classes\MediaFoundation\MediaSources\DoNotUse]
+
+<media source CLSID>
+
+
+---------------
+EVR Power Information
+---------------
+Current Setting: {5C67A112-A4C9-483F-B4A7-1D473BECAFDC} (Quality) 
+  Quality Flags: 2576
+    Enabled:
+    Force throttling
+    Allow half deinterlace
+    Allow scaling
+    Decode Power Usage: 100
+  Balanced Flags: 1424
+    Enabled:
+    Force throttling
+    Allow batching
+    Force half deinterlace
+    Force scaling
+    Decode Power Usage: 50
+  PowerFlags: 1424
+    Enabled:
+    Force throttling
+    Allow batching
+    Force half deinterlace
+    Force scaling
+    Decode Power Usage: 0
+
+---------------
+Diagnostics
+---------------
+
+Windows Error Reporting:
++++ WER0 +++:
+No Data
++++ WER1 +++:
+No Data
++++ WER2 +++:
+No Data
++++ WER3 +++:
+No Data
++++ WER4 +++:
+No Data
++++ WER5 +++:
+No Data
++++ WER6 +++:
+No Data
++++ WER7 +++:
+No Data
++++ WER8 +++:
+No Data
++++ WER9 +++:
+No Data
+
+
